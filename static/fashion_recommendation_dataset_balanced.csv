@@ -1,0 +1,2341 @@
+user_id,age,height_cm,chest_cm,waist_cm,hips_cm,shoulder_cm,style_preference,occasion,recommended_outfit,gender
+U0426,32,174,81,78,106,38,Party,Function,Blazer + Trousers,Female
+U1015,60,190,88,89,85,41,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0556,41,105,68,51,72,25,Formal,Function,Shirt + Trousers,Male
+U0909,27,172,86,85,99,37,Party,Wedding,Suit,Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0188,52,174,94,84,98,45,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0941,29,167,87,92,99,44,Ethnic,Wedding,Suit,Male
+U0905,25,183,87,92,102,48,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0335,25,168,95,77,94,49,Ethnic,Office,T-shirt + Shorts,Male
+U0218,8,149,74,62,65,28,Party,Office,T-shirt + Shorts,Kid-Female
+U0161,45,163,98,82,87,46,Ethnic,School,Suit,Male
+U0738,43,164,94,95,90,40,Sporty,Party,Blazer + Trousers,Male
+U0771,15,123,72,52,72,28,Ethnic,Wedding,Frock,Kid-Female
+U0673,7,110,73,57,63,25,Sporty,School,Shirt + Trousers,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0585,41,172,94,76,97,43,Party,Party,Blazer + Trousers,Male
+U0621,8,140,64,64,75,33,Sporty,Function,T-shirt + Shorts,Kid-Female
+U0813,28,129,55,62,57,33,Party,Wedding,Suit,Female
+U0966,57,161,80,81,107,39,Party,Party,Blazer + Trousers,Female
+U0010,47,187,96,76,103,44,Casual,School,Denim Jacket + Jeans,Male
+U1002,49,162,94,83,104,50,Sporty,Function,Nehru Jacket + Kurta,Male
+U0476,59,105,68,69,59,25,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0362,5,111,73,58,62,34,Ethnic,Party,T-shirt + Shorts,Kid-Female
+U0417,30,163,109,75,100,46,Formal,Office,Blazer + Trousers,Male
+U0993,46,175,89,99,104,43,Ethnic,School,Kurta + Pajama,Male
+U0933,43,182,91,90,90,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0407,53,150,80,78,110,44,Party,Wedding,Suit,Female
+U0269,5,119,58,60,62,26,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0239,47,139,67,61,55,25,Sporty,School,T-shirt + Shorts,Female
+U1031,39,152,94,69,104,38,Formal,Function,Anarkali Suit,Female
+U0802,38,165,107,95,95,44,Casual,Party,Denim Jacket + Jeans,Male
+U0711,33,174,95,83,92,45,Traditional,School,Kurta + Pajama,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0028,11,115,66,62,74,28,Traditional,Daily Wear,Frock,Kid-Female
+U0107,9,130,73,62,65,35,Sporty,Party,Dungarees,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0809,42,156,82,70,105,42,Formal,School,Lehenga,Female
+U0071,4,116,62,55,75,31,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0552,60,169,84,73,89,40,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0269,5,119,58,60,62,26,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0070,22,116,66,62,63,30,Sporty,Function,Dungarees,Female
+U0423,10,112,56,60,62,29,Party,Function,T-shirt + Shorts,Kid-Female
+U0285,29,186,98,77,90,49,Casual,School,Denim Jacket + Jeans,Male
+U0494,28,164,97,84,97,44,Party,Party,Blazer + Trousers,Female
+U0488,29,189,100,92,89,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U1065,58,131,60,54,70,33,Party,Party,Blazer + Trousers,Female
+U0725,4,103,67,68,73,29,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0791,38,166,93,82,100,40,Formal,Office,Blazer + Trousers,Male
+U0091,59,155,89,79,86,36,Party,Party,Blazer + Trousers,Female
+U0487,25,114,67,50,58,34,Formal,Wedding,Suit,Female
+U0803,52,174,88,67,91,43,Formal,Function,Top + Skirt,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0872,57,158,84,71,97,36,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0285,29,186,98,77,90,49,Casual,School,Denim Jacket + Jeans,Male
+U0554,27,188,103,97,92,48,Traditional,Party,Blazer + Trousers,Male
+U0828,59,118,64,52,74,27,Party,Party,Blazer + Trousers,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0295,12,136,69,65,70,28,Casual,Daily Wear,Frock,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0811,49,171,97,81,91,39,Sporty,School,Gown,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0824,36,101,60,68,69,32,Ethnic,Party,Blazer + Trousers,Female
+U0722,29,180,108,93,96,42,Ethnic,Wedding,Suit,Male
+U0572,15,142,61,69,59,26,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0380,28,142,67,58,72,34,Sporty,Party,Blazer + Trousers,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0920,42,173,96,81,86,35,Formal,Office,Blazer + Trousers,Female
+U0236,4,129,59,53,64,26,Formal,Office,Sweatshirt + Jeans,Kid-Female
+U0995,37,163,99,67,97,40,Formal,Wedding,Suit,Female
+U0806,5,102,58,68,73,35,Ethnic,Office,Sweatshirt + Jeans,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0848,20,121,63,64,60,32,Sporty,Wedding,Suit,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0949,40,148,58,62,75,29,Formal,Party,Blazer + Trousers,Male
+U0826,44,169,88,82,85,36,Party,Party,Blazer + Trousers,Female
+U0540,8,131,63,69,73,27,Casual,Wedding,Frock,Kid-Female
+U0910,42,169,89,85,91,41,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U1062,4,116,70,66,60,27,Ethnic,Function,Graphic Tee + Joggers,Kid-Female
+U0572,15,142,61,69,59,26,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U0170,59,113,59,56,65,29,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0194,18,156,82,69,90,35,Casual,Wedding,Suit,Female
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0782,25,160,86,72,97,45,Party,School,Blazer + Trousers,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0071,4,116,62,55,75,31,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0341,43,164,90,77,97,44,Sporty,Party,Blazer + Trousers,Female
+U1087,48,134,67,67,58,35,Traditional,Party,Blazer + Trousers,Female
+U0653,25,175,93,71,90,37,Ethnic,Wedding,Suit,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0997,58,138,65,61,72,25,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0028,11,115,66,62,74,28,Traditional,Daily Wear,Frock,Kid-Female
+U0055,31,132,64,65,67,33,Ethnic,Wedding,Suit,Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0584,50,171,95,88,91,41,Casual,Office,Denim Jacket + Jeans,Male
+U0327,18,169,90,65,108,39,Traditional,School,Gown,Female
+U0282,27,177,93,78,89,50,Sporty,Wedding,Suit,Male
+U0994,43,132,58,70,57,33,Ethnic,Office,Frock,Female
+U0697,45,181,94,82,105,46,Casual,Wedding,Suit,Male
+U0712,39,117,61,53,63,27,Traditional,School,T-shirt + Shorts,Female
+U0672,44,166,80,68,108,37,Ethnic,Function,Kurta + Pajama,Female
+U0639,21,159,80,81,89,38,Party,Wedding,Suit,Female
+U0071,4,116,62,55,75,31,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0636,22,164,110,77,85,40,Ethnic,Office,Kurta + Pajama,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0391,52,190,98,82,94,41,Party,Function,Blazer + Trousers,Male
+U1029,49,167,107,87,85,43,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U1088,29,145,72,56,75,30,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0769,25,126,72,66,66,29,Party,Wedding,Suit,Female
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0747,4,139,71,65,70,33,Ethnic,Function,Frock,Kid-Female
+U0881,18,115,60,52,75,32,Party,Function,Blazer + Trousers,Female
+U0880,47,187,91,96,104,42,Party,Office,Blazer + Trousers,Male
+U0787,42,181,108,77,96,49,Traditional,School,T-shirt + Shorts,Male
+U0112,34,124,66,68,57,32,Formal,Function,Dungarees,Female
+U0409,60,130,70,63,75,32,Ethnic,Function,Kurta + Pajama,Female
+U0502,50,173,102,98,92,40,Casual,Wedding,Suit,Male
+U0481,31,157,88,71,92,36,Formal,Function,Gown,Female
+U0580,52,147,73,60,74,30,Casual,Party,Denim Jacket + Jeans,Female
+U0760,26,182,93,76,101,48,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0164,38,143,62,61,58,25,Ethnic,School,Sweatshirt + Jeans,Female
+U0529,34,152,95,73,88,43,Party,Office,Blazer + Trousers,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U1005,58,173,86,80,102,46,Traditional,School,Nehru Jacket + Kurta,Male
+U0491,40,149,71,67,62,25,Formal,School,Shirt + Trousers,Male
+U0755,53,130,72,65,58,25,Sporty,Party,Blazer + Trousers,Male
+U0443,44,167,83,76,92,45,Ethnic,Party,Blazer + Trousers,Female
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0537,35,110,56,56,63,28,Ethnic,School,Sweatshirt + Jeans,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0656,6,101,55,70,55,25,Formal,Function,Dungarees,Kid-Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0952,20,190,93,100,89,41,Casual,Office,Denim Jacket + Jeans,Male
+U0483,23,164,95,81,88,37,Formal,Office,Blazer + Trousers,Female
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0725,4,103,67,68,73,29,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0996,31,106,75,59,69,29,Casual,Function,Denim Jacket + Jeans,Female
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0698,16,121,71,60,67,25,Traditional,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0836,34,124,55,54,69,33,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0771,15,123,72,52,72,28,Ethnic,Wedding,Frock,Kid-Female
+U0116,18,172,101,75,100,43,Ethnic,Party,Blazer + Trousers,Male
+U0404,52,147,63,59,64,29,Casual,Wedding,Suit,Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0619,42,163,92,96,97,49,Ethnic,Party,Blazer + Trousers,Male
+U0743,22,144,58,67,57,30,Formal,Function,Sweatshirt + Jeans,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0833,60,122,56,70,73,33,Casual,Party,Denim Jacket + Jeans,Female
+U0485,46,178,86,98,94,40,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0466,43,146,68,58,57,26,Party,Function,Blazer + Trousers,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0565,8,110,72,59,75,34,Sporty,Office,Sweatshirt + Jeans,Kid-Female
+U0299,8,116,70,69,68,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0553,30,162,90,77,92,44,Traditional,Function,Saree,Female
+U0631,4,138,60,55,64,32,Ethnic,School,Shirt + Trousers,Kid-Female
+U0914,26,107,66,57,68,32,Formal,School,Sweatshirt + Jeans,Female
+U0108,42,147,64,59,56,29,Formal,School,Dungarees,Female
+U0246,3,116,57,68,69,28,Casual,Function,T-shirt + Shorts,Kid-Female
+U0115,34,182,98,87,85,40,Traditional,Wedding,Suit,Male
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0078,27,160,99,82,102,38,Party,Function,Blazer + Trousers,Female
+U0382,4,146,64,50,62,26,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0187,41,181,86,89,100,50,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0876,50,152,87,78,88,40,Casual,Office,Denim Jacket + Jeans,Female
+U0318,56,177,94,99,92,48,Casual,Office,Denim Jacket + Jeans,Male
+U0806,5,102,58,68,73,35,Ethnic,Office,Sweatshirt + Jeans,Kid-Female
+U0551,35,181,102,86,87,40,Traditional,Function,Track Pants + Hoodie,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0556,41,105,68,51,72,25,Formal,Function,Shirt + Trousers,Male
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0905,25,183,87,92,102,48,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0645,25,177,89,82,86,45,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0944,58,190,108,84,92,44,Casual,Function,Denim Jacket + Jeans,Male
+U0158,54,176,98,78,92,49,Sporty,Function,Kurta + Pajama,Male
+U0630,60,163,85,94,94,43,Party,Office,Blazer + Trousers,Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0668,15,130,58,51,67,27,Ethnic,Wedding,Dungarees,Kid-Female
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0539,9,134,70,67,75,29,Traditional,Wedding,Frock,Kid-Female
+U0458,46,107,66,62,68,33,Casual,Office,Denim Jacket + Jeans,Female
+U0792,59,169,91,85,94,36,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0498,16,138,57,53,70,31,Casual,Office,Dungarees,Kid-Female
+U0822,43,175,87,65,100,35,Casual,Office,Denim Jacket + Jeans,Female
+U0790,23,177,90,83,93,45,Traditional,Function,Kurta + Pajama,Male
+U0770,21,190,93,98,93,46,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0360,43,150,98,72,103,36,Ethnic,Office,Salwar Suit,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0117,58,142,72,56,70,25,Sporty,Office,T-shirt + Shorts,Female
+U0566,49,108,71,51,55,25,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0956,15,132,75,52,72,29,Formal,Office,T-shirt + Shorts,Kid-Female
+U0158,54,176,98,78,92,49,Sporty,Function,Kurta + Pajama,Male
+U0122,48,158,89,70,98,38,Formal,Function,Salwar Suit,Female
+U0911,55,167,97,81,110,39,Ethnic,Office,Kurti + Leggings,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0990,60,188,98,90,94,45,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0454,21,188,91,90,98,49,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0450,43,163,89,85,95,46,Party,Function,Blazer + Trousers,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0286,41,169,96,69,110,35,Formal,Function,Top + Skirt,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0478,19,174,98,79,89,40,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0737,38,115,72,59,61,32,Ethnic,Party,Blazer + Trousers,Female
+U0323,20,184,95,97,102,44,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0894,42,175,86,71,108,35,Casual,School,Denim Jacket + Jeans,Female
+U0348,26,177,97,81,101,43,Party,Wedding,Suit,Male
+U0084,30,154,89,65,94,45,Formal,School,Top + Skirt,Female
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0307,51,184,98,97,90,44,Casual,Wedding,Suit,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0471,39,185,87,75,85,47,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0265,25,176,89,91,97,46,Formal,Party,Blazer + Trousers,Male
+U0115,34,182,98,87,85,40,Traditional,Wedding,Suit,Male
+U0406,7,133,66,69,63,33,Sporty,Function,Sweatshirt + Jeans,Kid-Female
+U0527,42,173,110,88,88,50,Party,Party,Blazer + Trousers,Male
+U0692,40,155,96,65,98,39,Ethnic,School,Salwar Suit,Female
+U0698,16,121,71,60,67,25,Traditional,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0430,46,131,67,66,70,26,Formal,Office,Blazer + Trousers,Female
+U0631,4,138,60,55,64,32,Ethnic,School,Shirt + Trousers,Kid-Female
+U0141,30,131,68,53,63,30,Formal,Wedding,Suit,Female
+U1010,58,180,89,79,93,42,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0340,50,143,59,50,66,32,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0189,51,161,90,69,109,43,Ethnic,Function,Kurta + Pajama,Female
+U0332,39,186,95,79,105,47,Sporty,Wedding,Suit,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0780,28,174,84,82,89,37,Sporty,Office,Lehenga,Female
+U0845,47,175,107,89,85,46,Traditional,Wedding,Suit,Male
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0319,54,168,99,95,87,47,Formal,School,Kurta + Pajama,Male
+U0491,40,149,71,67,62,25,Formal,School,Shirt + Trousers,Male
+U1053,52,169,92,84,108,36,Sporty,Party,Blazer + Trousers,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0615,55,150,92,68,86,43,Casual,Function,Denim Jacket + Jeans,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0303,29,177,95,98,99,42,Formal,Function,Track Pants + Hoodie,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0040,38,166,80,78,100,37,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U1077,39,106,65,51,56,34,Party,Function,Blazer + Trousers,Female
+U0656,6,101,55,70,55,25,Formal,Function,Dungarees,Kid-Female
+U0934,45,106,70,66,70,29,Casual,Office,Denim Jacket + Jeans,Female
+U0127,47,175,91,67,90,35,Ethnic,Party,Blazer + Trousers,Female
+U0710,24,133,66,65,63,29,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0269,5,119,58,60,62,26,Sporty,Office,T-shirt + Shorts,Kid-Female
+U1010,58,180,89,79,93,42,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0427,7,147,68,51,66,33,Ethnic,Function,Dungarees,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0316,46,124,70,67,61,33,Casual,Office,Denim Jacket + Jeans,Female
+U0396,24,165,108,79,94,50,Traditional,Office,Blazer + Trousers,Male
+U1047,57,163,93,73,109,41,Traditional,Office,Crop Top + Palazzo,Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U0587,20,170,90,67,89,45,Casual,Function,Denim Jacket + Jeans,Female
+U0135,53,179,106,89,87,43,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0177,14,107,62,62,73,30,Formal,Daily Wear,T-shirt + Shorts,Kid-Female
+U0800,47,167,93,73,88,38,Formal,Party,Blazer + Trousers,Female
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0648,20,166,96,97,95,43,Party,Party,Blazer + Trousers,Male
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0181,23,187,100,91,99,44,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0447,42,141,56,64,57,32,Ethnic,Party,Blazer + Trousers,Female
+U0425,43,165,99,86,87,46,Ethnic,School,Blazer + Trousers,Male
+U0240,60,126,55,64,73,28,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0049,38,165,93,67,86,35,Formal,Office,Blazer + Trousers,Female
+U0818,27,159,90,71,109,43,Ethnic,School,Kurti + Leggings,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0485,46,178,86,98,94,40,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0882,48,156,89,81,103,38,Party,School,Blazer + Trousers,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0372,24,161,94,74,93,37,Formal,Function,Kurti + Leggings,Female
+U0550,50,154,99,81,97,39,Casual,School,Denim Jacket + Jeans,Female
+U0294,45,165,105,81,103,47,Sporty,School,T-shirt + Shorts,Male
+U1066,51,127,63,67,58,27,Ethnic,Office,Graphic Tee + Joggers,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0411,46,170,92,95,95,42,Ethnic,Wedding,Suit,Male
+U0224,41,122,58,62,69,25,Formal,Function,Dungarees,Female
+U0857,42,174,81,77,90,41,Traditional,Office,Gown,Female
+U0452,18,137,75,61,57,28,Party,School,Blazer + Trousers,Female
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0592,23,137,65,64,73,25,Casual,Wedding,Suit,Female
+U0307,51,184,98,97,90,44,Casual,Wedding,Suit,Male
+U0147,30,173,106,80,97,44,Casual,Wedding,Suit,Male
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0707,11,124,59,66,57,34,Ethnic,Daily Wear,T-shirt + Shorts,Kid-Female
+U0287,48,150,59,50,75,33,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0337,44,140,75,66,69,30,Ethnic,Function,Kurta + Pajama,Female
+U0408,46,165,86,86,96,49,Traditional,Office,Track Pants + Hoodie,Male
+U0198,60,160,97,83,92,45,Party,School,Blazer + Trousers,Male
+U0662,7,103,61,55,72,26,Sporty,School,Shirt + Trousers,Kid-Female
+U0351,47,102,62,52,64,25,Sporty,Wedding,Suit,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0812,11,103,68,59,75,31,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0571,43,157,83,77,94,35,Party,Office,Blazer + Trousers,Female
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0975,29,161,104,86,105,49,Ethnic,Function,Kurta + Pajama,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U1084,10,120,56,67,73,33,Formal,Party,Hoodie + Track Pants,Kid-Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0339,34,115,70,62,60,30,Formal,Function,Dungarees,Female
+U0747,4,139,71,65,70,33,Ethnic,Function,Frock,Kid-Female
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0960,39,140,67,57,70,25,Formal,Wedding,Suit,Female
+U0206,40,117,67,51,61,27,Ethnic,Wedding,Suit,Female
+U0959,46,181,85,85,91,47,Sporty,School,Kurta + Pajama,Male
+U0670,14,109,67,69,57,25,Party,Wedding,Frock,Kid-Female
+U0406,7,133,66,69,63,33,Sporty,Function,Sweatshirt + Jeans,Kid-Female
+U0919,20,155,84,83,94,44,Formal,Party,Blazer + Trousers,Female
+U0840,24,130,68,53,61,28,Party,Wedding,Suit,Female
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U1043,28,163,99,78,97,39,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0709,9,110,55,59,73,31,Formal,Office,Dungarees,Kid-Female
+U0427,7,147,68,51,66,33,Ethnic,Function,Dungarees,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0708,39,170,85,75,107,41,Casual,Wedding,Suit,Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0536,36,169,97,87,102,42,Traditional,Party,Blazer + Trousers,Male
+U0667,34,190,104,95,95,42,Traditional,Wedding,Suit,Male
+U0345,22,179,103,84,101,43,Sporty,School,Blazer + Trousers,Male
+U0332,39,186,95,79,105,47,Sporty,Wedding,Suit,Male
+U0842,5,132,71,53,68,29,Traditional,School,Shirt + Trousers,Kid-Female
+U0393,23,167,88,72,109,40,Traditional,Office,Top + Skirt,Female
+U0328,60,121,56,56,67,25,Casual,School,Denim Jacket + Jeans,Female
+U0812,11,103,68,59,75,31,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0212,40,126,58,69,56,25,Sporty,School,Dungarees,Female
+U0538,38,167,87,85,107,43,Ethnic,Office,Tunic + Jeans,Female
+U0745,48,169,110,98,100,42,Traditional,Party,Blazer + Trousers,Male
+U0396,24,165,108,79,94,50,Traditional,Office,Blazer + Trousers,Male
+U0557,12,113,74,56,66,30,Party,Office,Dungarees,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0788,17,133,67,50,59,35,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0520,50,162,89,73,87,39,Sporty,Wedding,Suit,Female
+U0762,51,188,110,87,94,42,Casual,School,Denim Jacket + Jeans,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0689,58,125,67,63,74,34,Traditional,Office,T-shirt + Shorts,Female
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0956,15,132,75,52,72,29,Formal,Office,T-shirt + Shorts,Kid-Female
+U0028,11,115,66,62,74,28,Traditional,Daily Wear,Frock,Kid-Female
+U0331,23,186,107,78,94,50,Casual,Function,Denim Jacket + Jeans,Male
+U0006,37,180,100,78,102,44,Casual,Function,Denim Jacket + Jeans,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0830,4,102,58,58,67,33,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0252,23,175,94,92,99,45,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0544,32,156,89,77,94,42,Formal,Office,Blazer + Trousers,Female
+U0557,12,113,74,56,66,30,Party,Office,Dungarees,Kid-Female
+U0779,53,175,93,73,90,37,Ethnic,School,Kurti + Leggings,Female
+U0985,53,111,68,65,58,34,Casual,Office,Denim Jacket + Jeans,Female
+U0310,30,115,62,70,63,35,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0896,39,118,60,62,58,30,Formal,School,Frock,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0269,5,119,58,60,62,26,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0264,39,165,102,82,97,49,Sporty,School,Shirt + Jeans,Male
+U0568,20,189,88,89,99,50,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0958,43,181,99,91,96,45,Traditional,Party,Blazer + Trousers,Male
+U0659,40,167,101,94,96,46,Casual,Party,Denim Jacket + Jeans,Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0446,49,157,84,80,91,43,Casual,Office,Denim Jacket + Jeans,Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0787,42,181,108,77,96,49,Traditional,School,T-shirt + Shorts,Male
+U0608,37,181,97,90,102,44,Ethnic,Function,Kurta + Pajama,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0879,10,109,58,67,69,34,Traditional,Office,Frock,Kid-Female
+U0698,16,121,71,60,67,25,Traditional,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0620,20,135,66,63,60,30,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0899,21,160,91,87,104,47,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0721,32,123,73,58,62,28,Formal,Function,T-shirt + Shorts,Female
+U1026,22,177,109,89,102,48,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0567,29,158,90,77,99,36,Sporty,Wedding,Suit,Female
+U0954,16,127,72,69,60,28,Sporty,Wedding,T-shirt + Shorts,Kid-Female
+U0462,53,155,100,67,105,42,Sporty,Party,Blazer + Trousers,Female
+U0169,39,153,88,70,95,39,Casual,Party,Denim Jacket + Jeans,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0533,23,166,94,77,87,44,Traditional,Office,Lehenga,Female
+U0679,18,140,65,53,69,33,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U1009,30,176,96,100,105,49,Casual,School,Denim Jacket + Jeans,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0280,14,112,57,70,57,25,Sporty,Party,Dungarees,Kid-Female
+U1012,22,189,97,84,103,44,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U1028,25,171,93,94,94,48,Casual,School,Denim Jacket + Jeans,Male
+U0382,4,146,64,50,62,26,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0302,29,171,88,85,104,48,Traditional,Function,Kurta + Pajama,Male
+U0722,29,180,108,93,96,42,Ethnic,Wedding,Suit,Male
+U0219,22,133,74,64,72,33,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0790,23,177,90,83,93,45,Traditional,Function,Kurta + Pajama,Male
+U0353,27,108,63,59,73,27,Formal,Party,Blazer + Trousers,Female
+U0610,36,179,107,80,85,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0962,55,167,81,66,101,45,Formal,School,Saree,Female
+U0383,45,165,88,98,85,42,Traditional,School,Shirt + Jeans,Male
+U0956,15,132,75,52,72,29,Formal,Office,T-shirt + Shorts,Kid-Female
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0806,5,102,58,68,73,35,Ethnic,Office,Sweatshirt + Jeans,Kid-Female
+U0105,32,151,92,74,104,36,Casual,School,Denim Jacket + Jeans,Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0676,58,155,98,78,94,38,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0333,10,144,62,67,66,33,Traditional,School,Shirt + Trousers,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0606,31,176,105,78,91,42,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0080,24,158,85,82,89,42,Sporty,Office,Gown,Female
+U0471,39,185,87,75,85,47,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U1020,33,189,87,89,85,45,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0540,8,131,63,69,73,27,Casual,Wedding,Frock,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0427,7,147,68,51,66,33,Ethnic,Function,Dungarees,Kid-Female
+U0428,44,123,63,69,70,35,Casual,Wedding,Suit,Female
+U0961,15,135,62,61,66,34,Ethnic,School,Shirt + Trousers,Kid-Female
+U0600,21,189,95,89,104,49,Casual,Office,Denim Jacket + Jeans,Male
+U0270,42,173,105,91,96,43,Formal,Office,Blazer + Trousers,Male
+U0046,26,159,83,70,85,38,Sporty,Party,Blazer + Trousers,Female
+U0203,30,134,73,53,64,25,Casual,School,Denim Jacket + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0412,37,142,70,55,68,27,Formal,School,T-shirt + Shorts,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0362,5,111,73,58,62,34,Ethnic,Party,T-shirt + Shorts,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0383,45,165,88,98,85,42,Traditional,School,Shirt + Jeans,Male
+U0320,43,180,88,92,95,48,Traditional,Wedding,Suit,Male
+U0370,38,176,93,84,102,48,Ethnic,Function,Kurta + Pajama,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0139,36,165,92,84,98,50,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0974,59,167,94,87,104,46,Ethnic,Party,Blazer + Trousers,Male
+U0024,42,174,96,78,88,44,Formal,Office,Blazer + Trousers,Male
+U0159,36,177,106,94,99,41,Traditional,Function,Suit,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0423,10,112,56,60,62,29,Party,Function,T-shirt + Shorts,Kid-Female
+U0539,9,134,70,67,75,29,Traditional,Wedding,Frock,Kid-Female
+U0674,27,171,86,67,100,37,Sporty,Wedding,Suit,Female
+U0591,38,112,63,56,74,31,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U1011,24,166,104,96,89,40,Formal,Office,Blazer + Trousers,Male
+U0333,10,144,62,67,66,33,Traditional,School,Shirt + Trousers,Kid-Female
+U1086,15,133,69,52,72,31,Ethnic,Party,Hoodie + Track Pants,Kid-Female
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U1054,37,154,90,65,104,45,Ethnic,Office,Maxi Dress,Female
+U0842,5,132,71,53,68,29,Traditional,School,Shirt + Trousers,Kid-Female
+U1062,4,116,70,66,60,27,Ethnic,Function,Graphic Tee + Joggers,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0557,12,113,74,56,66,30,Party,Office,Dungarees,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0030,29,141,72,54,73,31,Party,Function,Blazer + Trousers,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0972,26,161,81,65,104,41,Ethnic,Party,Blazer + Trousers,Female
+U0786,48,120,71,50,63,28,Party,Office,Blazer + Trousers,Female
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0376,58,184,105,87,105,49,Party,Function,Blazer + Trousers,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0858,24,188,97,88,99,44,Traditional,Wedding,Suit,Male
+U0576,35,176,97,98,102,42,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0076,38,185,96,76,90,48,Formal,School,T-shirt + Shorts,Male
+U0735,36,168,87,69,108,36,Ethnic,School,Lehenga,Female
+U0400,17,136,66,59,71,25,Ethnic,Party,Frock,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0516,43,183,101,82,105,45,Traditional,Party,Blazer + Trousers,Male
+U0991,34,160,96,84,101,49,Ethnic,Party,Blazer + Trousers,Male
+U0577,20,184,105,81,93,43,Party,Office,Blazer + Trousers,Male
+U0838,20,181,107,86,88,48,Sporty,School,Kurta + Pajama,Male
+U0130,42,141,59,66,55,32,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0577,20,184,105,81,93,43,Party,Office,Blazer + Trousers,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0020,41,156,85,75,93,44,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0604,25,154,96,79,101,38,Party,Function,Blazer + Trousers,Female
+U0864,51,144,72,58,72,31,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0819,51,125,64,68,70,25,Traditional,School,Sweatshirt + Jeans,Female
+U0180,19,121,68,52,73,33,Sporty,Function,Frock,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0214,41,137,67,59,64,30,Ethnic,Party,Blazer + Trousers,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0959,46,181,85,85,91,47,Sporty,School,Kurta + Pajama,Male
+U0201,24,101,73,55,67,27,Traditional,Party,Blazer + Trousers,Female
+U0633,55,163,100,77,94,47,Sporty,School,Blazer + Trousers,Male
+U0074,29,115,67,55,73,26,Party,Wedding,Suit,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0657,21,183,90,76,99,45,Casual,Office,Denim Jacket + Jeans,Male
+U0330,53,174,97,100,98,42,Traditional,Function,Suit,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U1081,15,115,71,55,71,28,Traditional,Function,Hoodie + Track Pants,Kid-Female
+U1051,46,151,91,77,88,39,Traditional,Wedding,Suit,Female
+U0146,55,150,91,73,93,40,Party,Wedding,Suit,Female
+U0880,47,187,91,96,104,42,Party,Office,Blazer + Trousers,Male
+U0150,37,186,89,85,96,40,Traditional,Office,Blazer + Trousers,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0565,8,110,72,59,75,34,Sporty,Office,Sweatshirt + Jeans,Kid-Female
+U1042,38,163,90,65,88,45,Formal,Function,Crop Top + Palazzo,Female
+U0368,26,162,89,91,104,40,Sporty,Party,Blazer + Trousers,Male
+U0932,53,109,55,67,66,27,Casual,Wedding,Suit,Female
+U0614,53,112,72,68,65,29,Formal,School,Shirt + Trousers,Male
+U0977,25,187,88,90,104,47,Casual,School,Denim Jacket + Jeans,Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0755,53,130,72,65,58,25,Sporty,Party,Blazer + Trousers,Male
+U0118,40,159,92,69,110,39,Party,Office,Blazer + Trousers,Female
+U0103,40,166,81,71,109,43,Party,Function,Blazer + Trousers,Female
+U0621,8,140,64,64,75,33,Sporty,Function,T-shirt + Shorts,Kid-Female
+U0812,11,103,68,59,75,31,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0280,14,112,57,70,57,25,Sporty,Party,Dungarees,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0191,18,187,103,94,104,40,Ethnic,Party,Blazer + Trousers,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U1063,11,141,58,68,56,33,Party,Office,Graphic Tee + Joggers,Kid-Female
+U1086,15,133,69,52,72,31,Ethnic,Party,Hoodie + Track Pants,Kid-Female
+U0399,30,163,84,80,99,36,Party,Party,Blazer + Trousers,Female
+U0895,3,108,55,63,70,31,Casual,Daily Wear,Dungarees,Kid-Female
+U1081,15,115,71,55,71,28,Traditional,Function,Hoodie + Track Pants,Kid-Female
+U1056,26,175,82,84,101,41,Ethnic,Wedding,Suit,Female
+U0726,23,169,88,76,89,41,Casual,Office,Denim Jacket + Jeans,Female
+U1034,53,170,99,65,105,44,Formal,Wedding,Suit,Female
+U0621,8,140,64,64,75,33,Sporty,Function,T-shirt + Shorts,Kid-Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0385,33,141,74,69,58,31,Traditional,Function,Frock,Female
+U1060,51,151,93,67,106,35,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0673,7,110,73,57,63,25,Sporty,School,Shirt + Trousers,Kid-Female
+U1063,11,141,58,68,56,33,Party,Office,Graphic Tee + Joggers,Kid-Female
+U0981,45,173,87,69,106,44,Ethnic,Office,Kurti + Leggings,Female
+U0593,31,123,75,60,64,29,Formal,School,Frock,Female
+U0038,60,175,89,93,90,41,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0218,8,149,74,62,65,28,Party,Office,T-shirt + Shorts,Kid-Female
+U0096,48,162,93,71,96,45,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0557,12,113,74,56,66,30,Party,Office,Dungarees,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0403,20,153,97,75,92,37,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0285,29,186,98,77,90,49,Casual,School,Denim Jacket + Jeans,Male
+U0433,50,187,90,90,85,40,Sporty,School,Track Pants + Hoodie,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0306,30,137,75,62,73,25,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0236,4,129,59,53,64,26,Formal,Office,Sweatshirt + Jeans,Kid-Female
+U0269,5,119,58,60,62,26,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0707,11,124,59,66,57,34,Ethnic,Daily Wear,T-shirt + Shorts,Kid-Female
+U0490,53,170,82,78,108,45,Casual,Wedding,Suit,Female
+U0333,10,144,62,67,66,33,Traditional,School,Shirt + Trousers,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0248,37,176,108,89,101,40,Ethnic,Office,T-shirt + Shorts,Male
+U1068,8,141,67,55,71,25,Casual,Office,Graphic Tee + Joggers,Kid-Female
+U0485,46,178,86,98,94,40,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0042,27,169,89,71,100,40,Formal,School,Tunic + Jeans,Female
+U0090,50,188,91,75,85,47,Sporty,School,Shirt + Jeans,Male
+U0959,46,181,85,85,91,47,Sporty,School,Kurta + Pajama,Male
+U0733,34,122,74,62,55,26,Party,Function,Blazer + Trousers,Female
+U1037,59,155,88,82,86,36,Sporty,Party,Blazer + Trousers,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0570,51,190,87,79,89,48,Traditional,Function,Suit,Male
+U0140,33,119,62,59,62,31,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0511,32,173,93,82,107,36,Traditional,Function,Kurti + Leggings,Female
+U0269,5,119,58,60,62,26,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0579,35,187,88,76,89,43,Party,School,Blazer + Trousers,Male
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0821,44,151,89,72,108,43,Party,Wedding,Suit,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0665,53,146,57,70,73,25,Party,Wedding,Suit,Male
+U0873,28,152,81,83,100,45,Formal,Wedding,Suit,Female
+U0132,25,108,57,68,69,30,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0747,4,139,71,65,70,33,Ethnic,Function,Frock,Kid-Female
+U0058,20,166,81,76,95,37,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0079,18,165,110,87,89,42,Sporty,Party,Blazer + Trousers,Male
+U0732,46,124,64,59,72,29,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0440,34,163,99,66,102,40,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0369,27,172,89,82,89,45,Ethnic,Function,Kurta + Pajama,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0590,29,170,90,65,101,40,Ethnic,Wedding,Suit,Female
+U0405,32,116,65,56,62,27,Casual,Function,Denim Jacket + Jeans,Female
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0264,39,165,102,82,97,49,Sporty,School,Shirt + Jeans,Male
+U1005,58,173,86,80,102,46,Traditional,School,Nehru Jacket + Kurta,Male
+U0871,10,149,71,67,56,32,Sporty,Party,Sweatshirt + Jeans,Kid-Female
+U0278,27,133,65,55,67,32,Formal,School,Shirt + Trousers,Male
+U0560,9,119,72,66,56,30,Ethnic,Wedding,Frock,Kid-Female
+U0139,36,165,92,84,98,50,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U1019,48,162,102,80,95,45,Party,Office,Blazer + Trousers,Male
+U0916,41,167,83,77,92,43,Sporty,Party,Blazer + Trousers,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0525,26,171,94,78,93,37,Party,Party,Blazer + Trousers,Female
+U0913,3,106,69,69,62,35,Party,School,Shirt + Trousers,Kid-Female
+U0431,44,130,59,66,70,35,Formal,Function,Dungarees,Female
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U1073,52,124,74,58,74,31,Traditional,School,Floral Dress,Female
+U0793,48,173,94,79,97,37,Party,Party,Blazer + Trousers,Female
+U0498,16,138,57,53,70,31,Casual,Office,Dungarees,Kid-Female
+U0406,7,133,66,69,63,33,Sporty,Function,Sweatshirt + Jeans,Kid-Female
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0516,43,183,101,82,105,45,Traditional,Party,Blazer + Trousers,Male
+U0270,42,173,105,91,96,43,Formal,Office,Blazer + Trousers,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0852,43,155,88,74,110,42,Ethnic,Function,Kurta + Pajama,Female
+U0120,60,180,85,97,88,46,Ethnic,Function,Kurta + Pajama,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0246,3,116,57,68,69,28,Casual,Function,T-shirt + Shorts,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0178,44,171,97,93,92,50,Formal,Function,Suit,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0073,19,175,100,66,96,42,Traditional,Office,Gown,Female
+U0363,33,178,110,98,100,48,Ethnic,Function,Kurta + Pajama,Male
+U0427,7,147,68,51,66,33,Ethnic,Function,Dungarees,Kid-Female
+U0562,19,149,72,50,70,31,Ethnic,Office,Sweatshirt + Jeans,Female
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0747,4,139,71,65,70,33,Ethnic,Function,Frock,Kid-Female
+U0340,50,143,59,50,66,32,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0408,46,165,86,86,96,49,Traditional,Office,Track Pants + Hoodie,Male
+U0588,57,181,93,89,87,50,Sporty,Function,Suit,Male
+U0099,21,150,74,62,66,29,Party,Wedding,Suit,Male
+U0959,46,181,85,85,91,47,Sporty,School,Kurta + Pajama,Male
+U0834,44,166,99,80,110,39,Casual,Function,Denim Jacket + Jeans,Female
+U0622,40,185,100,93,105,50,Sporty,Function,Kurta + Pajama,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0751,28,171,88,66,106,38,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0659,40,167,101,94,96,46,Casual,Party,Denim Jacket + Jeans,Male
+U1033,23,174,85,76,96,35,Party,School,Blazer + Trousers,Female
+U0056,41,157,100,69,109,36,Sporty,Wedding,Suit,Female
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0269,5,119,58,60,62,26,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0270,42,173,105,91,96,43,Formal,Office,Blazer + Trousers,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0655,20,124,74,63,74,32,Casual,School,Denim Jacket + Jeans,Female
+U1055,21,161,94,80,97,39,Party,School,Blazer + Trousers,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0842,5,132,71,53,68,29,Traditional,School,Shirt + Trousers,Kid-Female
+U0231,21,178,94,77,91,48,Casual,Office,Denim Jacket + Jeans,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0675,22,119,74,70,75,33,Formal,Function,T-shirt + Shorts,Female
+U0154,18,159,87,80,98,35,Party,Wedding,Suit,Female
+U0012,43,176,100,93,98,48,Traditional,Wedding,Suit,Male
+U0318,56,177,94,99,92,48,Casual,Office,Denim Jacket + Jeans,Male
+U1068,8,141,67,55,71,25,Casual,Office,Graphic Tee + Joggers,Kid-Female
+U0159,36,177,106,94,99,41,Traditional,Function,Suit,Male
+U0496,51,121,61,59,59,27,Formal,School,Sweatshirt + Jeans,Female
+U1005,58,173,86,80,102,46,Traditional,School,Nehru Jacket + Kurta,Male
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0423,10,112,56,60,62,29,Party,Function,T-shirt + Shorts,Kid-Female
+U1069,21,119,70,67,61,34,Ethnic,Party,Blazer + Trousers,Female
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0645,25,177,89,82,86,45,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0665,53,146,57,70,73,25,Party,Wedding,Suit,Male
+U0846,32,186,96,95,91,45,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0582,48,126,73,67,66,26,Ethnic,Function,Kurta + Pajama,Female
+U0734,6,105,61,58,68,31,Party,Wedding,Dungarees,Kid-Female
+U1010,58,180,89,79,93,42,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0807,8,122,68,66,73,35,Traditional,Daily Wear,Frock,Kid-Female
+U0603,57,171,91,66,106,40,Formal,Function,Kurti + Leggings,Female
+U0156,47,172,103,81,102,47,Ethnic,Function,Kurta + Pajama,Male
+U0863,21,163,83,85,94,38,Traditional,Function,Lehenga,Female
+U0427,7,147,68,51,66,33,Ethnic,Function,Dungarees,Kid-Female
+U0334,20,151,80,85,92,43,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0063,51,110,75,69,61,34,Sporty,School,Frock,Female
+U0217,57,154,95,73,89,36,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0845,47,175,107,89,85,46,Traditional,Wedding,Suit,Male
+U0752,58,160,82,82,107,45,Sporty,Party,Blazer + Trousers,Female
+U1062,4,116,70,66,60,27,Ethnic,Function,Graphic Tee + Joggers,Kid-Female
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0065,44,160,98,83,105,36,Traditional,Function,Top + Skirt,Female
+U0877,45,155,80,85,94,37,Sporty,Function,Salwar Suit,Female
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U0949,40,148,58,62,75,29,Formal,Party,Blazer + Trousers,Male
+U0638,48,156,86,84,107,39,Party,School,Blazer + Trousers,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0374,52,161,98,78,104,39,Party,Party,Blazer + Trousers,Female
+U0188,52,174,94,84,98,45,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0148,41,166,95,94,100,43,Casual,School,Denim Jacket + Jeans,Male
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0616,21,157,85,66,107,42,Formal,Office,Blazer + Trousers,Female
+U0563,29,166,99,89,99,45,Party,Office,Blazer + Trousers,Male
+U0506,36,170,91,66,107,42,Casual,Office,Denim Jacket + Jeans,Female
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female
+U0574,49,180,89,91,98,40,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U1082,43,133,70,50,55,26,Party,School,Blazer + Trousers,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0903,14,131,75,50,61,33,Sporty,School,Shirt + Trousers,Kid-Female
+U0331,23,186,107,78,94,50,Casual,Function,Denim Jacket + Jeans,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0387,30,163,94,100,89,47,Traditional,Party,Blazer + Trousers,Male
+U0024,42,174,96,78,88,44,Formal,Office,Blazer + Trousers,Male
+U0362,5,111,73,58,62,34,Ethnic,Party,T-shirt + Shorts,Kid-Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0329,43,181,90,84,88,45,Ethnic,Function,Kurta + Pajama,Male
+U0280,14,112,57,70,57,25,Sporty,Party,Dungarees,Kid-Female
+U1074,53,131,65,57,55,34,Traditional,Function,Floral Dress,Female
+U0295,12,136,69,65,70,28,Casual,Daily Wear,Frock,Kid-Female
+U0006,37,180,100,78,102,44,Casual,Function,Denim Jacket + Jeans,Male
+U0010,47,187,96,76,103,44,Casual,School,Denim Jacket + Jeans,Male
+U0498,16,138,57,53,70,31,Casual,Office,Dungarees,Kid-Female
+U0280,14,112,57,70,57,25,Sporty,Party,Dungarees,Kid-Female
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0725,4,103,67,68,73,29,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0086,40,171,98,72,106,37,Sporty,School,Lehenga,Female
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0526,57,118,63,62,72,33,Formal,Office,Blazer + Trousers,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0955,26,138,74,60,64,27,Sporty,Wedding,Suit,Female
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0358,22,179,91,92,94,44,Casual,Function,Denim Jacket + Jeans,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0908,18,164,91,91,86,45,Sporty,School,Shirt + Jeans,Male
+U0705,58,151,83,70,89,43,Sporty,Office,Kurti + Leggings,Female
+U0788,17,133,67,50,59,35,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0596,27,167,88,83,100,37,Ethnic,Function,Kurta + Pajama,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0853,32,185,103,75,89,48,Ethnic,Party,Blazer + Trousers,Male
+U1089,35,104,60,55,62,35,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0990,60,188,98,90,94,45,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0276,20,138,64,60,64,35,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U1017,25,172,102,94,85,44,Ethnic,School,Denim Jacket + Jeans,Male
+U0926,60,179,99,86,99,40,Ethnic,School,Shirt + Jeans,Male
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0609,52,171,90,76,107,41,Traditional,Office,Kurti + Leggings,Female
+U0107,9,130,73,62,65,35,Sporty,Party,Dungarees,Kid-Female
+U0648,20,166,96,97,95,43,Party,Party,Blazer + Trousers,Male
+U0707,11,124,59,66,57,34,Ethnic,Daily Wear,T-shirt + Shorts,Kid-Female
+U0375,58,179,89,98,89,41,Ethnic,Function,Kurta + Pajama,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0216,35,160,106,83,97,50,Ethnic,Function,Kurta + Pajama,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0654,58,160,95,71,91,45,Party,Wedding,Suit,Female
+U0402,30,176,106,76,93,43,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0763,41,105,55,55,67,26,Ethnic,Function,Kurta + Pajama,Female
+U1090,37,131,74,59,57,27,Traditional,Office,Hoodie + Track Pants,Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0036,29,186,89,99,85,46,Formal,School,Shirt + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0555,53,106,56,64,65,30,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0711,33,174,95,83,92,45,Traditional,School,Kurta + Pajama,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0036,29,186,89,99,85,46,Formal,School,Shirt + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0250,22,175,99,70,92,38,Casual,Function,Denim Jacket + Jeans,Female
+U0400,17,136,66,59,71,25,Ethnic,Party,Frock,Kid-Female
+U0004,49,166,85,70,102,41,Party,Party,Blazer + Trousers,Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U1078,25,102,56,67,71,30,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0683,33,161,97,79,91,47,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0649,60,122,65,69,60,29,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0687,22,118,56,53,67,25,Party,Function,Blazer + Trousers,Female
+U0505,55,138,60,54,59,32,Casual,Party,Denim Jacket + Jeans,Female
+U0724,51,123,74,51,58,32,Party,Party,Blazer + Trousers,Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0867,18,188,92,86,103,43,Party,School,Blazer + Trousers,Male
+U0839,28,106,68,57,64,25,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0512,49,152,95,70,107,37,Casual,Function,Denim Jacket + Jeans,Female
+U0139,36,165,92,84,98,50,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0473,40,167,95,85,101,37,Party,Party,Blazer + Trousers,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0400,17,136,66,59,71,25,Ethnic,Party,Frock,Kid-Female
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0801,28,150,62,69,55,30,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0514,39,166,99,67,91,38,Party,School,Blazer + Trousers,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0734,6,105,61,58,68,31,Party,Wedding,Dungarees,Kid-Female
+U0725,4,103,67,68,73,29,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0480,41,172,95,84,96,41,Formal,Party,Blazer + Trousers,Female
+U0799,26,148,66,51,60,35,Party,Function,Blazer + Trousers,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0597,33,126,70,60,67,26,Formal,School,Sweatshirt + Jeans,Female
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0816,56,163,94,67,96,45,Casual,School,Denim Jacket + Jeans,Female
+U0933,43,182,91,90,90,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0218,8,149,74,62,65,28,Party,Office,T-shirt + Shorts,Kid-Female
+U0756,26,175,91,95,101,46,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0565,8,110,72,59,75,34,Sporty,Office,Sweatshirt + Jeans,Kid-Female
+U0837,23,102,62,60,60,30,Ethnic,Function,Kurta + Pajama,Male
+U0669,21,170,99,85,87,40,Formal,Wedding,Suit,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0395,23,167,105,80,99,47,Sporty,School,Blazer + Trousers,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0992,22,159,85,80,104,38,Formal,Party,Blazer + Trousers,Female
+U0556,41,105,68,51,72,25,Formal,Function,Shirt + Trousers,Male
+U0699,24,112,75,57,57,29,Casual,School,Denim Jacket + Jeans,Female
+U0347,48,158,100,74,98,35,Party,Party,Blazer + Trousers,Female
+U0321,30,151,92,81,96,44,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U1004,32,180,102,81,100,41,Traditional,Office,Nehru Jacket + Kurta,Male
+U0806,5,102,58,68,73,35,Ethnic,Office,Sweatshirt + Jeans,Kid-Female
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0359,42,156,86,68,103,45,Formal,Office,Blazer + Trousers,Female
+U0662,7,103,61,55,72,26,Sporty,School,Shirt + Trousers,Kid-Female
+U0275,56,101,60,68,62,26,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0291,50,110,75,55,74,27,Casual,Office,Denim Jacket + Jeans,Female
+U0610,36,179,107,80,85,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0513,43,107,60,63,72,29,Casual,Party,Denim Jacket + Jeans,Female
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0924,47,144,56,54,58,31,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0322,20,182,100,95,104,43,Sporty,Party,Blazer + Trousers,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0716,49,171,85,69,108,44,Ethnic,Party,Blazer + Trousers,Female
+U0435,54,114,74,64,58,30,Party,Party,Blazer + Trousers,Female
+U0895,3,108,55,63,70,31,Casual,Daily Wear,Dungarees,Kid-Female
+U0904,21,163,83,66,89,45,Party,Daily Wear,Denim Jacket + Jeans,Female
+U1029,49,167,107,87,85,43,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0579,35,187,88,76,89,43,Party,School,Blazer + Trousers,Male
+U0427,7,147,68,51,66,33,Ethnic,Function,Dungarees,Kid-Female
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0199,4,106,58,64,65,28,Traditional,Daily Wear,Dungarees,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0241,38,124,59,60,58,28,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0980,54,152,98,76,109,39,Formal,School,Saree,Female
+U0871,10,149,71,67,56,32,Sporty,Party,Sweatshirt + Jeans,Kid-Female
+U0642,37,164,100,85,96,37,Casual,Function,Denim Jacket + Jeans,Female
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0806,5,102,58,68,73,35,Ethnic,Office,Sweatshirt + Jeans,Kid-Female
+U0032,30,161,84,82,102,40,Casual,School,Denim Jacket + Jeans,Female
+U0071,4,116,62,55,75,31,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0545,47,124,73,69,74,33,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0600,21,189,95,89,104,49,Casual,Office,Denim Jacket + Jeans,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0575,38,189,96,88,98,43,Sporty,Office,T-shirt + Shorts,Male
+U0444,54,180,104,98,89,41,Sporty,Function,Kurta + Pajama,Male
+U1072,32,126,69,62,69,34,Formal,School,Floral Dress,Female
+U0771,15,123,72,52,72,28,Ethnic,Wedding,Frock,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0883,41,164,87,77,108,45,Party,School,Blazer + Trousers,Female
+U1018,25,183,110,95,101,43,Formal,School,Denim Jacket + Jeans,Male
+U0386,37,119,74,67,71,29,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0696,49,174,102,77,97,44,Traditional,Wedding,Suit,Male
+U0866,56,180,97,97,96,46,Formal,Party,Blazer + Trousers,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0348,26,177,97,81,101,43,Party,Wedding,Suit,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U1084,10,120,56,67,73,33,Formal,Party,Hoodie + Track Pants,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0231,21,178,94,77,91,48,Casual,Office,Denim Jacket + Jeans,Male
+U0588,57,181,93,89,87,50,Sporty,Function,Suit,Male
+U0282,27,177,93,78,89,50,Sporty,Wedding,Suit,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0773,31,177,109,78,104,46,Formal,Office,Blazer + Trousers,Male
+U0734,6,105,61,58,68,31,Party,Wedding,Dungarees,Kid-Female
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0150,37,186,89,85,96,40,Traditional,Office,Blazer + Trousers,Male
+U0295,12,136,69,65,70,28,Casual,Daily Wear,Frock,Kid-Female
+U0722,29,180,108,93,96,42,Ethnic,Wedding,Suit,Male
+U0069,20,144,58,68,59,30,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0515,39,119,67,54,75,33,Casual,Function,Denim Jacket + Jeans,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0814,9,126,61,56,69,26,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0171,51,109,67,63,60,31,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0485,46,178,86,98,94,40,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0185,42,160,80,77,85,40,Sporty,Party,Blazer + Trousers,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0937,51,102,57,63,64,31,Sporty,Wedding,Suit,Female
+U0878,43,190,102,86,103,49,Traditional,Wedding,Suit,Male
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0471,39,185,87,75,85,47,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0600,21,189,95,89,104,49,Casual,Office,Denim Jacket + Jeans,Male
+U0651,29,188,99,100,101,40,Ethnic,School,Track Pants + Hoodie,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0331,23,186,107,78,94,50,Casual,Function,Denim Jacket + Jeans,Male
+U0421,40,160,98,80,94,47,Ethnic,Wedding,Suit,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0936,13,128,59,50,59,27,Ethnic,Daily Wear,Dungarees,Kid-Female
+U0119,52,151,94,72,85,42,Ethnic,School,Top + Skirt,Female
+U0940,58,102,68,70,62,32,Party,Function,Blazer + Trousers,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0320,43,180,88,92,95,48,Traditional,Wedding,Suit,Male
+U0912,35,150,65,54,55,34,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0491,40,149,71,67,62,25,Formal,School,Shirt + Trousers,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0957,29,167,84,76,88,42,Sporty,Wedding,Suit,Female
+U0623,57,179,106,83,89,49,Formal,Wedding,Suit,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0690,37,137,67,69,74,26,Casual,Party,Denim Jacket + Jeans,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0034,54,143,63,68,73,27,Traditional,School,Shirt + Trousers,Male
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0482,23,178,101,84,102,48,Traditional,Office,Shirt + Jeans,Male
+U0303,29,177,95,98,99,42,Formal,Function,Track Pants + Hoodie,Male
+U0131,56,179,105,92,99,44,Ethnic,Wedding,Suit,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0598,38,139,60,61,65,35,Traditional,School,Frock,Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0778,51,168,92,83,106,35,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0830,4,102,58,58,67,33,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0044,37,174,104,76,100,44,Sporty,Party,Blazer + Trousers,Male
+U0107,9,130,73,62,65,35,Sporty,Party,Dungarees,Kid-Female
+U0734,6,105,61,58,68,31,Party,Wedding,Dungarees,Kid-Female
+U0381,46,174,100,94,89,49,Formal,Office,Blazer + Trousers,Male
+U0657,21,183,90,76,99,45,Casual,Office,Denim Jacket + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0272,56,128,61,50,65,33,Ethnic,School,Frock,Female
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0610,36,179,107,80,85,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0482,23,178,101,84,102,48,Traditional,Office,Shirt + Jeans,Male
+U0326,21,120,75,54,57,33,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0302,29,171,88,85,104,48,Traditional,Function,Kurta + Pajama,Male
+U0656,6,101,55,70,55,25,Formal,Function,Dungarees,Kid-Female
+U0539,9,134,70,67,75,29,Traditional,Wedding,Frock,Kid-Female
+U0851,24,168,85,98,94,43,Sporty,Wedding,Suit,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0656,6,101,55,70,55,25,Formal,Function,Dungarees,Kid-Female
+U0315,52,173,81,71,89,38,Ethnic,School,Salwar Suit,Female
+U0423,10,112,56,60,62,29,Party,Function,T-shirt + Shorts,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0051,46,165,94,71,89,38,Formal,Office,Blazer + Trousers,Female
+U0054,13,143,58,63,63,33,Ethnic,School,Shirt + Trousers,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0054,13,143,58,63,63,33,Ethnic,School,Shirt + Trousers,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0231,21,178,94,77,91,48,Casual,Office,Denim Jacket + Jeans,Male
+U0067,56,151,83,74,90,44,Casual,Office,Denim Jacket + Jeans,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0038,60,175,89,93,90,41,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0931,53,172,97,75,87,38,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0457,51,155,86,75,92,40,Casual,School,Denim Jacket + Jeans,Female
+U1050,53,170,85,84,109,37,Traditional,Party,Blazer + Trousers,Female
+U0982,52,165,81,72,89,40,Party,Office,Blazer + Trousers,Female
+U0899,21,160,91,87,104,47,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0246,3,116,57,68,69,28,Casual,Function,T-shirt + Shorts,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0905,25,183,87,92,102,48,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0095,50,156,85,73,102,43,Formal,Office,Blazer + Trousers,Female
+U0054,13,143,58,63,63,33,Ethnic,School,Shirt + Trousers,Kid-Female
+U0974,59,167,94,87,104,46,Ethnic,Party,Blazer + Trousers,Male
+U0895,3,108,55,63,70,31,Casual,Daily Wear,Dungarees,Kid-Female
+U0926,60,179,99,86,99,40,Ethnic,School,Shirt + Jeans,Male
+U0362,5,111,73,58,62,34,Ethnic,Party,T-shirt + Shorts,Kid-Female
+U0860,47,180,103,94,87,40,Casual,Wedding,Suit,Male
+U0107,9,130,73,62,65,35,Sporty,Party,Dungarees,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0330,53,174,97,100,98,42,Traditional,Function,Suit,Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0539,9,134,70,67,75,29,Traditional,Wedding,Frock,Kid-Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0406,7,133,66,69,63,33,Sporty,Function,Sweatshirt + Jeans,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0970,50,165,92,65,103,42,Party,Office,Blazer + Trousers,Female
+U0136,26,157,98,82,99,36,Traditional,Function,Tunic + Jeans,Female
+U1027,34,165,93,86,91,46,Traditional,Wedding,Suit,Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0858,24,188,97,88,99,44,Traditional,Wedding,Suit,Male
+U0274,46,173,83,84,89,36,Traditional,School,Salwar Suit,Female
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0632,47,157,82,73,109,45,Casual,Function,Denim Jacket + Jeans,Female
+U0014,39,175,99,67,110,43,Party,Office,Blazer + Trousers,Female
+U0125,12,129,74,56,66,33,Sporty,Function,Frock,Kid-Female
+U0332,39,186,95,79,105,47,Sporty,Wedding,Suit,Male
+U0167,52,189,87,96,91,50,Traditional,Function,Shirt + Jeans,Male
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0886,31,167,84,67,89,43,Traditional,Office,Kurti + Leggings,Female
+U0346,33,108,64,70,67,35,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0311,41,173,84,75,110,37,Casual,Party,Denim Jacket + Jeans,Female
+U0861,51,173,92,65,109,41,Traditional,Office,Salwar Suit,Female
+U0925,28,140,58,63,59,34,Casual,School,Denim Jacket + Jeans,Female
+U0340,50,143,59,50,66,32,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0903,14,131,75,50,61,33,Sporty,School,Shirt + Trousers,Kid-Female
+U0166,23,184,101,84,97,45,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0860,47,180,103,94,87,40,Casual,Wedding,Suit,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0626,58,159,92,72,94,37,Ethnic,Party,Blazer + Trousers,Female
+U0843,21,170,90,83,91,44,Casual,School,Denim Jacket + Jeans,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0143,54,127,71,65,66,30,Traditional,Function,Dungarees,Female
+U0906,22,186,104,94,88,50,Casual,Office,Denim Jacket + Jeans,Male
+U0028,11,115,66,62,74,28,Traditional,Daily Wear,Frock,Kid-Female
+U0622,40,185,100,93,105,50,Sporty,Function,Kurta + Pajama,Male
+U0087,22,157,82,70,107,44,Sporty,Wedding,Suit,Female
+U0130,42,141,59,66,55,32,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0196,29,161,81,65,94,42,Formal,Party,Blazer + Trousers,Female
+U0946,39,182,91,77,89,47,Traditional,Office,Blazer + Trousers,Male
+U0218,8,149,74,62,65,28,Party,Office,T-shirt + Shorts,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U0299,8,116,70,69,68,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U1018,25,183,110,95,101,43,Formal,School,Denim Jacket + Jeans,Male
+U0039,45,158,81,77,87,37,Formal,Wedding,Suit,Female
+U1013,18,162,93,90,105,48,Party,Office,Blazer + Trousers,Male
+U0542,56,111,57,53,65,34,Traditional,Wedding,Suit,Female
+U0820,57,155,89,67,98,36,Traditional,Function,Gown,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0956,15,132,75,52,72,29,Formal,Office,T-shirt + Shorts,Kid-Female
+U0057,51,123,67,61,61,35,Ethnic,Office,Dungarees,Female
+U0913,3,106,69,69,62,35,Party,School,Shirt + Trousers,Kid-Female
+U0236,4,129,59,53,64,26,Formal,Office,Sweatshirt + Jeans,Kid-Female
+U0977,25,187,88,90,104,47,Casual,School,Denim Jacket + Jeans,Male
+U0415,44,159,95,82,99,39,Formal,Wedding,Suit,Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0625,36,174,96,79,97,41,Party,Function,Blazer + Trousers,Female
+U1059,25,158,99,66,95,44,Traditional,School,Maxi Dress,Female
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0652,33,160,81,67,105,43,Casual,School,Denim Jacket + Jeans,Female
+U0271,44,160,90,67,92,45,Ethnic,School,Lehenga,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0668,15,130,58,51,67,27,Ethnic,Wedding,Dungarees,Kid-Female
+U0588,57,181,93,89,87,50,Sporty,Function,Suit,Male
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0281,34,140,63,69,56,29,Casual,Party,Denim Jacket + Jeans,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0617,59,162,100,82,94,50,Party,Wedding,Suit,Male
+U0504,43,178,108,89,89,49,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0411,46,170,92,95,95,42,Ethnic,Wedding,Suit,Male
+U0094,27,176,85,94,98,40,Party,Party,Blazer + Trousers,Male
+U0379,45,186,86,99,89,49,Ethnic,School,Blazer + Trousers,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0908,18,164,91,91,86,45,Sporty,School,Shirt + Jeans,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0376,58,184,105,87,105,49,Party,Function,Blazer + Trousers,Male
+U0019,37,176,92,79,100,47,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0670,14,109,67,69,57,25,Party,Wedding,Frock,Kid-Female
+U0611,29,160,99,84,91,46,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0663,23,147,55,68,74,32,Ethnic,Office,T-shirt + Shorts,Female
+U0693,47,170,89,90,86,50,Casual,Function,Denim Jacket + Jeans,Male
+U1021,54,185,102,85,98,43,Casual,Function,Denim Jacket + Jeans,Male
+U0741,33,158,83,67,86,38,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0181,23,187,100,91,99,44,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0425,43,165,99,86,87,46,Ethnic,School,Blazer + Trousers,Male
+U0472,37,142,59,60,73,28,Ethnic,Office,Frock,Female
+U0521,57,162,88,80,89,46,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0565,8,110,72,59,75,34,Sporty,Office,Sweatshirt + Jeans,Kid-Female
+U0774,60,190,92,100,87,47,Sporty,Party,Blazer + Trousers,Male
+U0599,59,105,72,55,72,26,Ethnic,Function,Kurta + Pajama,Female
+U0568,20,189,88,89,99,50,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0236,4,129,59,53,64,26,Formal,Office,Sweatshirt + Jeans,Kid-Female
+U0335,25,168,95,77,94,49,Ethnic,Office,T-shirt + Shorts,Male
+U0714,47,121,58,52,65,33,Sporty,Function,Dungarees,Female
+U1067,30,113,59,51,63,27,Ethnic,Function,Kurta + Pajama,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0199,4,106,58,64,65,28,Traditional,Daily Wear,Dungarees,Kid-Female
+U0662,7,103,61,55,72,26,Sporty,School,Shirt + Trousers,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0720,4,132,69,68,60,26,Formal,Wedding,T-shirt + Shorts,Kid-Female
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0382,4,146,64,50,62,26,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0290,58,187,96,99,96,43,Casual,Party,Denim Jacket + Jeans,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0221,40,116,62,70,69,33,Formal,Office,Blazer + Trousers,Female
+U0400,17,136,66,59,71,25,Ethnic,Party,Frock,Kid-Female
+U0251,57,187,93,92,96,43,Traditional,Wedding,Suit,Male
+U0788,17,133,67,50,59,35,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0681,58,121,72,60,74,31,Formal,Office,Blazer + Trousers,Female
+U0773,31,177,109,78,104,46,Formal,Office,Blazer + Trousers,Male
+U1086,15,133,69,52,72,31,Ethnic,Party,Hoodie + Track Pants,Kid-Female
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0558,12,136,72,60,55,29,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0193,19,190,91,78,102,46,Ethnic,Function,Kurta + Pajama,Male
+U0247,39,117,56,55,61,33,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0866,56,180,97,97,96,46,Formal,Party,Blazer + Trousers,Male
+U0264,39,165,102,82,97,49,Sporty,School,Shirt + Jeans,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0899,21,160,91,87,104,47,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U1013,18,162,93,90,105,48,Party,Office,Blazer + Trousers,Male
+U0662,7,103,61,55,72,26,Sporty,School,Shirt + Trousers,Kid-Female
+U1063,11,141,58,68,56,33,Party,Office,Graphic Tee + Joggers,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0025,34,159,99,70,110,39,Ethnic,School,Salwar Suit,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0125,12,129,74,56,66,33,Sporty,Function,Frock,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0227,19,120,65,59,61,28,Sporty,Wedding,Suit,Female
+U0956,15,132,75,52,72,29,Formal,Office,T-shirt + Shorts,Kid-Female
+U0618,32,172,93,73,97,40,Traditional,Office,Tunic + Jeans,Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0715,38,190,98,82,102,47,Formal,School,T-shirt + Shorts,Male
+U0031,52,163,95,73,88,40,Traditional,Party,Blazer + Trousers,Female
+U0648,20,166,96,97,95,43,Party,Party,Blazer + Trousers,Male
+U0416,19,100,58,66,56,30,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0329,43,181,90,84,88,45,Ethnic,Function,Kurta + Pajama,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0893,47,189,102,97,102,44,Sporty,Wedding,Suit,Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0976,30,166,87,75,91,38,Party,Party,Blazer + Trousers,Female
+U0333,10,144,62,67,66,33,Traditional,School,Shirt + Trousers,Kid-Female
+U0377,19,152,94,66,98,36,Sporty,School,Gown,Female
+U0546,46,121,73,50,60,30,Casual,Party,Denim Jacket + Jeans,Female
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0420,31,160,110,100,101,40,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0697,45,181,94,82,105,46,Casual,Wedding,Suit,Male
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U1048,56,168,82,80,90,39,Party,Function,Blazer + Trousers,Female
+U0283,54,167,82,65,91,41,Traditional,Party,Blazer + Trousers,Female
+U0808,31,122,62,67,56,34,Ethnic,Office,T-shirt + Shorts,Female
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0907,38,172,84,72,93,45,Traditional,Office,Kurti + Leggings,Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U1052,30,173,99,65,107,44,Casual,Wedding,Suit,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0748,30,123,66,53,56,32,Party,Party,Blazer + Trousers,Female
+U1080,43,106,66,54,72,29,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0701,48,183,85,80,100,41,Party,Wedding,Suit,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0155,31,188,106,90,102,50,Traditional,Party,Blazer + Trousers,Male
+U0558,12,136,72,60,55,29,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0256,31,166,103,97,93,42,Sporty,School,Kurta + Pajama,Male
+U0747,4,139,71,65,70,33,Ethnic,Function,Frock,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0908,18,164,91,91,86,45,Sporty,School,Shirt + Jeans,Male
+U0936,13,128,59,50,59,27,Ethnic,Daily Wear,Dungarees,Kid-Female
+U0266,40,169,86,92,88,45,Sporty,Party,Blazer + Trousers,Male
+U0257,18,150,62,61,62,33,Party,Party,Blazer + Trousers,Female
+U0375,58,179,89,98,89,41,Ethnic,Function,Kurta + Pajama,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0810,56,169,86,78,85,44,Formal,School,Saree,Female
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0956,15,132,75,52,72,29,Formal,Office,T-shirt + Shorts,Kid-Female
+U0564,49,149,65,67,62,30,Party,Party,Blazer + Trousers,Female
+U0768,58,163,95,84,108,37,Traditional,Wedding,Suit,Female
+U0151,21,104,58,70,74,35,Traditional,Wedding,Suit,Female
+U0379,45,186,86,99,89,49,Ethnic,School,Blazer + Trousers,Male
+U0375,58,179,89,98,89,41,Ethnic,Function,Kurta + Pajama,Male
+U0232,35,161,95,73,99,36,Ethnic,Function,Kurta + Pajama,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0436,46,162,107,77,85,40,Party,Function,Blazer + Trousers,Male
+U1026,22,177,109,89,102,48,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0771,15,123,72,52,72,28,Ethnic,Wedding,Frock,Kid-Female
+U0683,33,161,97,79,91,47,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0510,37,153,92,73,96,45,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U1011,24,166,104,96,89,40,Formal,Office,Blazer + Trousers,Male
+U0362,5,111,73,58,62,34,Ethnic,Party,T-shirt + Shorts,Kid-Female
+U0831,20,167,90,78,99,47,Ethnic,Wedding,Suit,Male
+U0959,46,181,85,85,91,47,Sporty,School,Kurta + Pajama,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0723,56,131,66,57,56,34,Sporty,Office,Dungarees,Female
+U0641,48,155,94,80,97,39,Ethnic,Office,Salwar Suit,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0470,26,188,87,90,87,40,Casual,Function,Denim Jacket + Jeans,Male
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0771,15,123,72,52,72,28,Ethnic,Wedding,Frock,Kid-Female
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0629,29,155,97,80,105,35,Casual,School,Denim Jacket + Jeans,Female
+U0984,38,177,101,96,96,41,Party,Function,Blazer + Trousers,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0027,21,132,71,67,65,26,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female
+U0324,35,131,60,59,69,35,Ethnic,Office,Frock,Female
+U0495,28,174,83,75,109,39,Party,Function,Blazer + Trousers,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0270,42,173,105,91,96,43,Formal,Office,Blazer + Trousers,Male
+U0621,8,140,64,64,75,33,Sporty,Function,T-shirt + Shorts,Kid-Female
+U0493,44,150,85,65,95,40,Traditional,School,Top + Skirt,Female
+U0028,11,115,66,62,74,28,Traditional,Daily Wear,Frock,Kid-Female
+U0243,43,170,82,76,87,45,Formal,Party,Blazer + Trousers,Female
+U0612,25,164,83,77,93,40,Party,School,Blazer + Trousers,Female
+U0645,25,177,89,82,86,45,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U1057,60,158,83,67,102,39,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0244,48,155,85,77,99,44,Party,Function,Blazer + Trousers,Female
+U0195,19,160,94,80,90,45,Sporty,School,Lehenga,Female
+U0998,47,163,98,83,97,38,Traditional,School,Salwar Suit,Female
+U0438,59,173,88,72,100,43,Traditional,Wedding,Suit,Female
+U0673,7,110,73,57,63,25,Sporty,School,Shirt + Trousers,Kid-Female
+U0126,57,177,105,93,104,43,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0577,20,184,105,81,93,43,Party,Office,Blazer + Trousers,Male
+U0624,19,155,99,82,96,44,Sporty,Wedding,Suit,Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0926,60,179,99,86,99,40,Ethnic,School,Shirt + Jeans,Male
+U0693,47,170,89,90,86,50,Casual,Function,Denim Jacket + Jeans,Male
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0373,37,123,60,70,61,26,Casual,Wedding,Suit,Female
+U1075,57,135,69,60,74,29,Traditional,School,Floral Dress,Female
+U0631,4,138,60,55,64,32,Ethnic,School,Shirt + Trousers,Kid-Female
+U0948,35,139,72,70,70,32,Formal,Office,Blazer + Trousers,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U1011,24,166,104,96,89,40,Formal,Office,Blazer + Trousers,Male
+U0961,15,135,62,61,66,34,Ethnic,School,Shirt + Trousers,Kid-Female
+U0007,39,171,94,82,99,43,Traditional,Party,Blazer + Trousers,Female
+U0050,56,189,103,92,92,49,Party,Party,Blazer + Trousers,Male
+U0885,50,106,72,56,62,26,Traditional,School,Sweatshirt + Jeans,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0013,22,162,95,66,109,44,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0802,38,165,107,95,95,44,Casual,Party,Denim Jacket + Jeans,Male
+U0410,26,186,106,86,87,40,Traditional,Function,Blazer + Trousers,Male
+U1046,19,172,93,84,107,35,Casual,Wedding,Suit,Female
+U0442,51,144,59,68,63,26,Formal,School,Dungarees,Female
+U0621,8,140,64,64,75,33,Sporty,Function,T-shirt + Shorts,Kid-Female
+U1041,26,175,86,82,103,39,Traditional,School,Crop Top + Palazzo,Female
+U0469,49,160,90,77,107,36,Casual,Office,Denim Jacket + Jeans,Female
+U0788,17,133,67,50,59,35,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0402,30,176,106,76,93,43,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U1023,30,161,90,90,105,47,Party,Office,Blazer + Trousers,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0524,46,110,63,64,70,30,Party,Function,Blazer + Trousers,Female
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0368,26,162,89,91,104,40,Sporty,Party,Blazer + Trousers,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0602,23,156,96,65,89,42,Formal,Wedding,Suit,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female
+U0516,43,183,101,82,105,45,Traditional,Party,Blazer + Trousers,Male
+U0815,41,168,84,79,91,37,Traditional,Function,Tunic + Jeans,Female
+U1086,15,133,69,52,72,31,Ethnic,Party,Hoodie + Track Pants,Kid-Female
+U0449,32,168,92,97,104,45,Casual,School,Denim Jacket + Jeans,Male
+U0166,23,184,101,84,97,45,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0709,9,110,55,59,73,31,Formal,Office,Dungarees,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0454,21,188,91,90,98,49,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0441,42,166,83,84,108,37,Party,School,Blazer + Trousers,Female
+U0854,20,187,86,77,95,43,Traditional,Function,Kurta + Pajama,Male
+U0747,4,139,71,65,70,33,Ethnic,Function,Frock,Kid-Female
+U0383,45,165,88,98,85,42,Traditional,School,Shirt + Jeans,Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0106,45,152,96,71,86,43,Ethnic,Office,Gown,Female
+U0047,54,160,84,84,110,42,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0263,20,154,99,71,106,35,Traditional,Function,Lehenga,Female
+U1035,49,151,100,77,86,38,Casual,Function,Denim Jacket + Jeans,Female
+U0734,6,105,61,58,68,31,Party,Wedding,Dungarees,Kid-Female
+U0282,27,177,93,78,89,50,Sporty,Wedding,Suit,Male
+U0142,24,172,85,71,86,39,Traditional,Function,Gown,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0161,45,163,98,82,87,46,Ethnic,School,Suit,Male
+U0918,22,180,92,84,95,45,Traditional,Wedding,Suit,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0917,35,155,92,68,91,43,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0331,23,186,107,78,94,50,Casual,Function,Denim Jacket + Jeans,Male
+U0223,44,172,99,94,97,49,Sporty,Party,Blazer + Trousers,Male
+U0568,20,189,88,89,99,50,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0264,39,165,102,82,97,49,Sporty,School,Shirt + Jeans,Male
+U0694,50,163,98,69,89,37,Party,Function,Blazer + Trousers,Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0265,25,176,89,91,97,46,Formal,Party,Blazer + Trousers,Male
+U0425,43,165,99,86,87,46,Ethnic,School,Blazer + Trousers,Male
+U1084,10,120,56,67,73,33,Formal,Party,Hoodie + Track Pants,Kid-Female
+U0704,50,150,99,67,103,43,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0340,50,143,59,50,66,32,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0128,57,165,87,76,103,42,Party,Office,Blazer + Trousers,Female
+U0052,30,111,62,68,62,29,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0797,20,190,99,83,94,48,Casual,Office,Denim Jacket + Jeans,Male
+U0989,45,115,75,57,72,27,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0089,33,141,55,70,59,25,Traditional,School,Sweatshirt + Jeans,Female
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U0586,33,175,83,70,99,43,Formal,School,Tunic + Jeans,Female
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0028,11,115,66,62,74,28,Traditional,Daily Wear,Frock,Kid-Female
+U0016,53,160,96,73,101,38,Formal,Party,Blazer + Trousers,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0199,4,106,58,64,65,28,Traditional,Daily Wear,Dungarees,Kid-Female
+U0670,14,109,67,69,57,25,Party,Wedding,Frock,Kid-Female
+U0644,53,147,73,52,56,28,Sporty,School,T-shirt + Shorts,Female
+U0077,18,157,91,76,94,42,Formal,Function,Tunic + Jeans,Female
+U0161,45,163,98,82,87,46,Ethnic,School,Suit,Male
+U0182,57,153,98,74,110,43,Ethnic,School,Tunic + Jeans,Female
+U0671,27,152,81,71,87,45,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0895,3,108,55,63,70,31,Casual,Daily Wear,Dungarees,Kid-Female
+U0461,29,171,93,68,97,39,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0413,32,156,84,83,101,43,Casual,School,Denim Jacket + Jeans,Female
+U0125,12,129,74,56,66,33,Sporty,Function,Frock,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0814,9,126,61,56,69,26,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0709,9,110,55,59,73,31,Formal,Office,Dungarees,Kid-Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0411,46,170,92,95,95,42,Ethnic,Wedding,Suit,Male
+U0660,43,155,91,65,85,39,Casual,Party,Denim Jacket + Jeans,Female
+U0987,35,136,68,51,73,28,Sporty,School,Frock,Female
+U0451,38,122,67,65,65,33,Party,Function,Blazer + Trousers,Female
+U0936,13,128,59,50,59,27,Ethnic,Daily Wear,Dungarees,Kid-Female
+U0521,57,162,88,80,89,46,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U1032,23,150,90,65,92,45,Ethnic,Office,Anarkali Suit,Female
+U0323,20,184,95,97,102,44,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0879,10,109,58,67,69,34,Traditional,Office,Frock,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0097,23,170,99,76,101,35,Ethnic,Wedding,Suit,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0157,53,110,73,62,62,27,Formal,School,T-shirt + Shorts,Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0926,60,179,99,86,99,40,Ethnic,School,Shirt + Jeans,Male
+U0121,33,104,75,70,61,28,Party,Function,Blazer + Trousers,Male
+U0532,58,159,87,70,102,37,Casual,School,Denim Jacket + Jeans,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0688,60,161,86,76,99,40,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0707,11,124,59,66,57,34,Ethnic,Daily Wear,T-shirt + Shorts,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0790,23,177,90,83,93,45,Traditional,Function,Kurta + Pajama,Male
+U0192,49,164,85,81,90,44,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0068,51,163,98,72,103,38,Traditional,Party,Blazer + Trousers,Female
+U0220,29,146,62,59,65,26,Casual,Function,Denim Jacket + Jeans,Female
+U0398,43,147,69,51,69,33,Sporty,School,Frock,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0085,49,175,91,84,88,45,Party,Daily Wear,Denim Jacket + Jeans,Female
+U1044,38,160,96,84,97,36,Casual,Party,Denim Jacket + Jeans,Female
+U0110,51,154,89,69,85,40,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0536,36,169,97,87,102,42,Traditional,Party,Blazer + Trousers,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0349,52,101,58,63,73,26,Sporty,School,T-shirt + Shorts,Female
+U0242,58,164,84,75,110,40,Sporty,School,Tunic + Jeans,Female
+U0668,15,130,58,51,67,27,Ethnic,Wedding,Dungarees,Kid-Female
+U0720,4,132,69,68,60,26,Formal,Wedding,T-shirt + Shorts,Kid-Female
+U0235,20,111,71,70,64,31,Party,Function,Blazer + Trousers,Female
+U0134,39,174,89,68,88,42,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0434,55,122,61,68,69,27,Ethnic,Wedding,Suit,Male
+U0850,11,146,56,58,67,27,Party,Function,Dungarees,Kid-Female
+U1040,41,160,97,73,85,45,Casual,School,Denim Jacket + Jeans,Female
+U0936,13,128,59,50,59,27,Ethnic,Daily Wear,Dungarees,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0709,9,110,55,59,73,31,Formal,Office,Dungarees,Kid-Female
+U0790,23,177,90,83,93,45,Traditional,Function,Kurta + Pajama,Male
+U0313,54,144,69,51,73,29,Formal,Function,T-shirt + Shorts,Female
+U0477,30,152,88,76,107,39,Casual,Party,Denim Jacket + Jeans,Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0849,50,157,83,72,102,41,Sporty,School,Salwar Suit,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0807,8,122,68,66,73,35,Traditional,Daily Wear,Frock,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0165,36,150,96,73,92,45,Traditional,School,Top + Skirt,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0871,10,149,71,67,56,32,Sporty,Party,Sweatshirt + Jeans,Kid-Female
+U0406,7,133,66,69,63,33,Sporty,Function,Sweatshirt + Jeans,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0173,30,152,84,84,110,38,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0832,48,155,100,83,95,40,Ethnic,Function,Kurta + Pajama,Female
+U0123,37,121,72,59,56,33,Casual,School,Denim Jacket + Jeans,Female
+U1079,51,120,59,62,72,25,Sporty,Party,Blazer + Trousers,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0707,11,124,59,66,57,34,Ethnic,Daily Wear,T-shirt + Shorts,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U1018,25,183,110,95,101,43,Formal,School,Denim Jacket + Jeans,Male
+U0478,19,174,98,79,89,40,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0396,24,165,108,79,94,50,Traditional,Office,Blazer + Trousers,Male
+U0539,9,134,70,67,75,29,Traditional,Wedding,Frock,Kid-Female
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0744,52,164,92,75,93,42,Traditional,Wedding,Suit,Female
+U0456,36,140,61,62,67,29,Ethnic,Office,T-shirt + Shorts,Female
+U0369,27,172,89,82,89,45,Ethnic,Function,Kurta + Pajama,Male
+U0507,43,103,64,69,59,25,Party,Function,Blazer + Trousers,Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0205,38,159,85,76,91,40,Casual,Party,Denim Jacket + Jeans,Female
+U0835,34,170,89,67,87,36,Party,Office,Blazer + Trousers,Female
+U0382,4,146,64,50,62,26,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0479,59,171,94,69,105,39,Casual,School,Denim Jacket + Jeans,Female
+U0928,60,167,101,92,95,47,Traditional,Wedding,Suit,Male
+U1011,24,166,104,96,89,40,Formal,Office,Blazer + Trousers,Male
+U0162,28,166,93,65,110,40,Formal,School,Gown,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0059,39,173,81,68,94,44,Traditional,School,Kurti + Leggings,Female
+U0304,56,189,85,93,86,44,Formal,School,T-shirt + Shorts,Male
+U0261,24,182,98,83,94,47,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0855,23,143,59,60,61,31,Traditional,Office,T-shirt + Shorts,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0236,4,129,59,53,64,26,Formal,Office,Sweatshirt + Jeans,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0517,33,163,107,81,100,41,Traditional,Office,Kurta + Pajama,Male
+U0001,39,151,96,73,94,40,Party,Office,Blazer + Trousers,Female
+U0523,53,190,93,99,95,48,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0535,39,163,105,88,96,43,Traditional,Office,Blazer + Trousers,Male
+U0137,53,174,89,69,98,37,Sporty,Function,Saree,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0423,10,112,56,60,62,29,Party,Function,T-shirt + Shorts,Kid-Female
+U0756,26,175,91,95,101,46,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U1068,8,141,67,55,71,25,Casual,Office,Graphic Tee + Joggers,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0270,42,173,105,91,96,43,Formal,Office,Blazer + Trousers,Male
+U0979,30,151,81,68,110,44,Sporty,School,Gown,Female
+U0161,45,163,98,82,87,46,Ethnic,School,Suit,Male
+U0777,52,147,64,64,62,35,Ethnic,Function,Kurta + Pajama,Female
+U0739,44,111,65,51,74,30,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0155,31,188,106,90,102,50,Traditional,Party,Blazer + Trousers,Male
+U0176,47,130,69,62,68,26,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0290,58,187,96,99,96,43,Casual,Party,Denim Jacket + Jeans,Male
+U0961,15,135,62,61,66,34,Ethnic,School,Shirt + Trousers,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0670,14,109,67,69,57,25,Party,Wedding,Frock,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0101,35,156,84,85,108,36,Casual,Party,Denim Jacket + Jeans,Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0702,53,179,109,92,94,50,Traditional,Wedding,Suit,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0437,53,134,60,69,57,33,Traditional,Wedding,Suit,Female
+U0267,42,114,61,69,63,27,Casual,Office,Denim Jacket + Jeans,Female
+U0668,15,130,58,51,67,27,Ethnic,Wedding,Dungarees,Kid-Female
+U0719,18,150,57,58,66,28,Party,Party,Blazer + Trousers,Female
+U0738,43,164,94,95,90,40,Sporty,Party,Blazer + Trousers,Male
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0178,44,171,97,93,92,50,Formal,Function,Suit,Male
+U0859,37,184,96,87,104,49,Casual,School,Denim Jacket + Jeans,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U1009,30,176,96,100,105,49,Casual,School,Denim Jacket + Jeans,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0023,20,101,66,54,56,26,Casual,Party,Denim Jacket + Jeans,Female
+U0856,44,164,95,65,89,42,Formal,Party,Blazer + Trousers,Female
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0489,35,165,93,82,99,38,Traditional,School,Tunic + Jeans,Female
+U0540,8,131,63,69,73,27,Casual,Wedding,Frock,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0746,27,126,72,66,56,34,Ethnic,School,Frock,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0308,58,176,92,75,95,45,Formal,School,T-shirt + Shorts,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0698,16,121,71,60,67,25,Traditional,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0662,7,103,61,55,72,26,Sporty,School,Shirt + Trousers,Kid-Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0875,28,112,63,58,69,35,Sporty,Office,T-shirt + Shorts,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0771,15,123,72,52,72,28,Ethnic,Wedding,Frock,Kid-Female
+U0942,36,160,90,78,95,38,Formal,Office,Blazer + Trousers,Female
+U0565,8,110,72,59,75,34,Sporty,Office,Sweatshirt + Jeans,Kid-Female
+U0066,44,172,97,71,86,45,Formal,Office,Blazer + Trousers,Female
+U0299,8,116,70,69,68,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U1038,45,155,98,66,90,38,Casual,Function,Denim Jacket + Jeans,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0871,10,149,71,67,56,32,Sporty,Party,Sweatshirt + Jeans,Kid-Female
+U0191,18,187,103,94,104,40,Ethnic,Party,Blazer + Trousers,Male
+U0943,35,180,108,83,105,48,Party,Wedding,Suit,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0656,6,101,55,70,55,25,Formal,Function,Dungarees,Kid-Female
+U0177,14,107,62,62,73,30,Formal,Daily Wear,T-shirt + Shorts,Kid-Female
+U0717,25,162,85,71,110,41,Party,Office,Blazer + Trousers,Female
+U0558,12,136,72,60,55,29,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0680,29,163,110,81,100,44,Party,Function,Blazer + Trousers,Male
+U0686,45,127,59,66,58,28,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0707,11,124,59,66,57,34,Ethnic,Daily Wear,T-shirt + Shorts,Kid-Female
+U0734,6,105,61,58,68,31,Party,Wedding,Dungarees,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0177,14,107,62,62,73,30,Formal,Daily Wear,T-shirt + Shorts,Kid-Female
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0781,45,179,98,93,96,50,Sporty,Office,Shirt + Jeans,Male
+U1028,25,171,93,94,94,48,Casual,School,Denim Jacket + Jeans,Male
+U0829,33,162,85,87,102,50,Formal,School,Blazer + Trousers,Male
+U0636,22,164,110,77,85,40,Ethnic,Office,Kurta + Pajama,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0381,46,174,100,94,89,49,Formal,Office,Blazer + Trousers,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0348,26,177,97,81,101,43,Party,Wedding,Suit,Male
+U0568,20,189,88,89,99,50,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0390,32,190,98,87,103,43,Casual,Function,Denim Jacket + Jeans,Male
+U0444,54,180,104,98,89,41,Sporty,Function,Kurta + Pajama,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0133,24,171,95,70,97,39,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0812,11,103,68,59,75,31,Party,Party,Sweatshirt + Jeans,Kid-Female
+U1027,34,165,93,86,91,46,Traditional,Wedding,Suit,Male
+U0698,16,121,71,60,67,25,Traditional,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0905,25,183,87,92,102,48,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0760,26,182,93,76,101,48,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0092,54,151,92,68,94,36,Casual,Function,Denim Jacket + Jeans,Female
+U0238,57,159,100,78,101,45,Casual,Party,Denim Jacket + Jeans,Female
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0572,15,142,61,69,59,26,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0400,17,136,66,59,71,25,Ethnic,Party,Frock,Kid-Female
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0678,42,167,107,80,91,42,Traditional,Office,Blazer + Trousers,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0951,40,167,80,72,107,43,Ethnic,Party,Blazer + Trousers,Female
+U0661,47,171,98,88,104,45,Ethnic,Wedding,Suit,Male
+U0664,37,158,98,68,91,39,Ethnic,Party,Blazer + Trousers,Female
+U0742,34,150,75,60,75,33,Party,Wedding,Suit,Female
+U0903,14,131,75,50,61,33,Sporty,School,Shirt + Trousers,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0459,11,101,63,54,56,30,Casual,School,Shirt + Trousers,Kid-Female
+U0259,29,175,89,91,95,45,Formal,Office,Blazer + Trousers,Male
+U0902,33,154,92,75,110,45,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0402,30,176,106,76,93,43,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0730,45,165,105,79,91,43,Ethnic,Office,Kurta + Pajama,Male
+U0094,27,176,85,94,98,40,Party,Party,Blazer + Trousers,Male
+U0178,44,171,97,93,92,50,Formal,Function,Suit,Male
+U0054,13,143,58,63,63,33,Ethnic,School,Shirt + Trousers,Kid-Female
+U0325,55,168,80,82,91,44,Traditional,Function,Salwar Suit,Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0064,23,156,83,69,105,45,Casual,Function,Denim Jacket + Jeans,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0028,11,115,66,62,74,28,Traditional,Daily Wear,Frock,Kid-Female
+U0153,42,119,57,51,60,26,Ethnic,Party,Blazer + Trousers,Female
+U0314,54,139,56,67,62,30,Casual,Office,Denim Jacket + Jeans,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0076,38,185,96,76,90,48,Formal,School,T-shirt + Shorts,Male
+U0718,56,108,58,58,74,35,Party,Function,Blazer + Trousers,Male
+U0148,41,166,95,94,100,43,Casual,School,Denim Jacket + Jeans,Male
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0539,9,134,70,67,75,29,Traditional,Wedding,Frock,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0256,31,166,103,97,93,42,Sporty,School,Kurta + Pajama,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0967,44,140,69,64,74,28,Ethnic,School,Frock,Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0939,19,165,82,70,94,44,Casual,School,Denim Jacket + Jeans,Female
+U0037,47,163,100,79,104,42,Party,Office,Blazer + Trousers,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0647,23,146,69,59,73,28,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0048,52,174,107,84,89,49,Ethnic,Function,Kurta + Pajama,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0053,49,120,61,68,68,33,Formal,Function,Dungarees,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0993,46,175,89,99,104,43,Ethnic,School,Kurta + Pajama,Male
+U0709,9,110,55,59,73,31,Formal,Office,Dungarees,Kid-Female
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0658,45,176,91,76,105,47,Traditional,Function,Shirt + Jeans,Male
+U0317,41,154,100,71,91,43,Traditional,Office,Lehenga,Female
+U0588,57,181,93,89,87,50,Sporty,Function,Suit,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0677,56,179,110,99,93,48,Casual,Function,Denim Jacket + Jeans,Male
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0929,36,150,94,75,88,35,Party,Function,Blazer + Trousers,Female
+U1084,10,120,56,67,73,33,Formal,Party,Hoodie + Track Pants,Kid-Female
+U0218,8,149,74,62,65,28,Party,Office,T-shirt + Shorts,Kid-Female
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U0850,11,146,56,58,67,27,Party,Function,Dungarees,Kid-Female
+U0895,3,108,55,63,70,31,Casual,Daily Wear,Dungarees,Kid-Female
+U0498,16,138,57,53,70,31,Casual,Office,Dungarees,Kid-Female
+U0453,21,112,61,64,61,28,Party,Wedding,Suit,Female
+U0218,8,149,74,62,65,28,Party,Office,T-shirt + Shorts,Kid-Female
+U1022,42,160,101,95,91,45,Party,Wedding,Suit,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0540,8,131,63,69,73,27,Casual,Wedding,Frock,Kid-Female
+U0999,58,182,93,80,92,46,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0697,45,181,94,82,105,46,Casual,Wedding,Suit,Male
+U0578,22,169,99,79,101,43,Party,Party,Blazer + Trousers,Male
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0218,8,149,74,62,65,28,Party,Office,T-shirt + Shorts,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0186,56,131,60,53,73,25,Party,Wedding,Suit,Female
+U0572,15,142,61,69,59,26,Party,Office,Sweatshirt + Jeans,Kid-Female
+U1070,31,103,68,67,55,31,Ethnic,Wedding,Suit,Female
+U0459,11,101,63,54,56,30,Casual,School,Shirt + Trousers,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0406,7,133,66,69,63,33,Sporty,Function,Sweatshirt + Jeans,Kid-Female
+U0295,12,136,69,65,70,28,Casual,Daily Wear,Frock,Kid-Female
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0858,24,188,97,88,99,44,Traditional,Wedding,Suit,Male
+U0488,29,189,100,92,89,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0745,48,169,110,98,100,42,Traditional,Party,Blazer + Trousers,Male
+U0707,11,124,59,66,57,34,Ethnic,Daily Wear,T-shirt + Shorts,Kid-Female
+U0262,56,131,66,57,64,29,Party,Office,Blazer + Trousers,Female
+U0278,27,133,65,55,67,32,Formal,School,Shirt + Trousers,Male
+U0762,51,188,110,87,94,42,Casual,School,Denim Jacket + Jeans,Male
+U0895,3,108,55,63,70,31,Casual,Daily Wear,Dungarees,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0842,5,132,71,53,68,29,Traditional,School,Shirt + Trousers,Kid-Female
+U0400,17,136,66,59,71,25,Ethnic,Party,Frock,Kid-Female
+U0865,21,154,86,79,85,35,Ethnic,Function,Kurta + Pajama,Female
+U0501,54,103,71,60,56,32,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0124,40,171,97,71,107,39,Traditional,Party,Blazer + Trousers,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0847,38,143,67,56,73,35,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0753,44,160,81,76,86,42,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0158,54,176,98,78,92,49,Sporty,Function,Kurta + Pajama,Male
+U0336,24,161,80,67,97,37,Traditional,Function,Top + Skirt,Female
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0683,33,161,97,79,91,47,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U1017,25,172,102,94,85,44,Ethnic,School,Denim Jacket + Jeans,Male
+U0933,43,182,91,90,90,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0402,30,176,106,76,93,43,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0357,13,115,70,66,55,25,Casual,Daily Wear,Frock,Kid-Female
+U0098,54,141,66,65,65,31,Party,Function,Blazer + Trousers,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0125,12,129,74,56,66,33,Sporty,Function,Frock,Kid-Female
+U0432,52,177,88,98,103,40,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0422,45,144,74,65,68,31,Traditional,Function,Sweatshirt + Jeans,Female
+U0528,53,165,83,72,97,43,Casual,Party,Denim Jacket + Jeans,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0419,24,174,91,80,99,46,Sporty,Wedding,Suit,Male
+U0062,47,156,83,79,85,45,Formal,Wedding,Suit,Female
+U1016,42,162,95,85,100,45,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0926,60,179,99,86,99,40,Ethnic,School,Shirt + Jeans,Male
+U0246,3,116,57,68,69,28,Casual,Function,T-shirt + Shorts,Kid-Female
+U0432,52,177,88,98,103,40,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0369,27,172,89,82,89,45,Ethnic,Function,Kurta + Pajama,Male
+U0187,41,181,86,89,100,50,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0698,16,121,71,60,67,25,Traditional,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0807,8,122,68,66,73,35,Traditional,Daily Wear,Frock,Kid-Female
+U0366,33,166,89,67,95,42,Traditional,School,Kurti + Leggings,Female
+U0728,6,100,75,61,59,27,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0869,45,159,89,74,97,40,Traditional,Office,Lehenga,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0560,9,119,72,66,56,30,Ethnic,Wedding,Frock,Kid-Female
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0695,43,187,110,96,85,43,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0093,60,180,93,87,98,41,Party,Wedding,Suit,Male
+U0246,3,116,57,68,69,28,Casual,Function,T-shirt + Shorts,Kid-Female
+U0432,52,177,88,98,103,40,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0795,40,118,56,53,67,30,Casual,Party,Denim Jacket + Jeans,Female
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0725,4,103,67,68,73,29,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0464,32,175,108,95,95,47,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0246,3,116,57,68,69,28,Casual,Function,T-shirt + Shorts,Kid-Female
+U0200,41,169,92,71,103,36,Casual,Function,Denim Jacket + Jeans,Female
+U0804,32,147,63,59,56,32,Party,Wedding,Suit,Female
+U0574,49,180,89,91,98,40,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0668,15,130,58,51,67,27,Ethnic,Wedding,Dungarees,Kid-Female
+U0788,17,133,67,50,59,35,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0630,60,163,85,94,94,43,Party,Office,Blazer + Trousers,Male
+U0152,54,162,86,84,102,45,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0126,57,177,105,93,104,43,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0029,44,174,97,79,91,50,Traditional,Office,Blazer + Trousers,Male
+U0400,17,136,66,59,71,25,Ethnic,Party,Frock,Kid-Female
+U0938,24,120,74,60,56,26,Party,Office,Blazer + Trousers,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0026,55,167,84,85,102,44,Casual,Wedding,Suit,Female
+U0754,28,174,86,76,97,37,Traditional,Function,Kurti + Leggings,Female
+U0541,53,158,83,65,107,38,Ethnic,Party,Blazer + Trousers,Female
+U0126,57,177,105,93,104,43,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0352,36,170,95,97,86,42,Casual,Office,Denim Jacket + Jeans,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0785,56,173,95,93,94,43,Traditional,Wedding,Suit,Male
+U0367,25,176,98,86,88,48,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U1025,21,181,94,84,88,41,Sporty,Wedding,Suit,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female
+U0745,48,169,110,98,100,42,Traditional,Party,Blazer + Trousers,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0633,55,163,100,77,94,47,Sporty,School,Blazer + Trousers,Male
+U0309,39,122,69,55,57,30,Ethnic,Wedding,Suit,Male
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0850,11,146,56,58,67,27,Party,Function,Dungarees,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0293,42,134,55,65,61,25,Formal,Function,T-shirt + Shorts,Female
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0935,49,159,84,80,106,39,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0492,34,158,96,81,91,42,Sporty,Wedding,Suit,Female
+U0079,18,165,110,87,89,42,Sporty,Party,Blazer + Trousers,Male
+U0643,44,148,72,65,67,33,Traditional,Party,Blazer + Trousers,Female
+U0248,37,176,108,89,101,40,Ethnic,Office,T-shirt + Shorts,Male
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U0973,56,115,59,53,57,33,Traditional,Wedding,Suit,Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0673,7,110,73,57,63,25,Sporty,School,Shirt + Trousers,Kid-Female
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0759,42,167,92,93,95,46,Sporty,School,T-shirt + Shorts,Male
+U0841,30,159,92,68,104,37,Sporty,Function,Top + Skirt,Female
+U0570,51,190,87,79,89,48,Traditional,Function,Suit,Male
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0432,52,177,88,98,103,40,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U1081,15,115,71,55,71,28,Traditional,Function,Hoodie + Track Pants,Kid-Female
+U0923,59,173,96,82,95,49,Casual,Wedding,Suit,Male
+U0829,33,162,85,87,102,50,Formal,School,Blazer + Trousers,Male
+U0983,24,166,87,74,107,35,Party,Party,Blazer + Trousers,Female
+U0923,59,173,96,82,95,49,Casual,Wedding,Suit,Male
+U0045,31,158,89,75,108,41,Ethnic,Function,Kurta + Pajama,Female
+U0682,41,129,65,59,70,31,Party,Office,Blazer + Trousers,Female
+U0825,33,179,95,84,97,47,Casual,Wedding,Suit,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U1049,38,173,81,75,107,35,Party,Wedding,Suit,Female
+U0650,46,148,64,62,60,25,Traditional,Function,Dungarees,Female
+U0823,40,156,100,73,94,43,Traditional,Party,Blazer + Trousers,Female
+U0898,55,143,55,55,69,30,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0424,39,110,72,69,55,27,Casual,Office,Denim Jacket + Jeans,Female
+U1081,15,115,71,55,71,28,Traditional,Function,Hoodie + Track Pants,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0711,33,174,95,83,92,45,Traditional,School,Kurta + Pajama,Male
+U0812,11,103,68,59,75,31,Party,Party,Sweatshirt + Jeans,Kid-Female
+U1084,10,120,56,67,73,33,Formal,Party,Hoodie + Track Pants,Kid-Female
+U0798,22,181,109,78,104,47,Traditional,Party,Blazer + Trousers,Male
+U0160,57,150,98,77,99,40,Ethnic,Daily Wear,Denim Jacket + Jeans,Female
+U0771,15,123,72,52,72,28,Ethnic,Wedding,Frock,Kid-Female
+U1084,10,120,56,67,73,33,Formal,Party,Hoodie + Track Pants,Kid-Female
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0536,36,169,97,87,102,42,Traditional,Party,Blazer + Trousers,Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0125,12,129,74,56,66,33,Sporty,Function,Frock,Kid-Female
+U0747,4,139,71,65,70,33,Ethnic,Function,Frock,Kid-Female
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0277,24,163,90,82,107,38,Traditional,School,Tunic + Jeans,Female
+U0427,7,147,68,51,66,33,Ethnic,Function,Dungarees,Kid-Female
+U0475,53,156,82,84,108,40,Traditional,School,Gown,Female
+U0115,34,182,98,87,85,40,Traditional,Wedding,Suit,Male
+U0621,8,140,64,64,75,33,Sporty,Function,T-shirt + Shorts,Kid-Female
+U1085,48,135,73,64,58,35,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0338,5,100,71,63,59,29,Sporty,School,Shirt + Trousers,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0054,13,143,58,63,63,33,Ethnic,School,Shirt + Trousers,Kid-Female
+U0188,52,174,94,84,98,45,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0921,44,102,70,55,63,32,Party,Function,Blazer + Trousers,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U1058,39,173,96,73,88,38,Casual,Party,Denim Jacket + Jeans,Female
+U0879,10,109,58,67,69,34,Traditional,Office,Frock,Kid-Female
+U0837,23,102,62,60,60,30,Ethnic,Function,Kurta + Pajama,Male
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U0830,4,102,58,58,67,33,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0661,47,171,98,88,104,45,Ethnic,Wedding,Suit,Male
+U0969,49,154,88,85,87,35,Casual,Wedding,Suit,Female
+U0236,4,129,59,53,64,26,Formal,Office,Sweatshirt + Jeans,Kid-Female
+U0303,29,177,95,98,99,42,Formal,Function,Track Pants + Hoodie,Male
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0903,14,131,75,50,61,33,Sporty,School,Shirt + Trousers,Kid-Female
+U0145,46,164,108,85,96,42,Ethnic,Wedding,Suit,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0670,14,109,67,69,57,25,Party,Wedding,Frock,Kid-Female
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0256,31,166,103,97,93,42,Sporty,School,Kurta + Pajama,Male
+U0202,49,164,98,76,94,40,Sporty,Wedding,Suit,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0631,4,138,60,55,64,32,Ethnic,School,Shirt + Trousers,Kid-Female
+U0722,29,180,108,93,96,42,Ethnic,Wedding,Suit,Male
+U1011,24,166,104,96,89,40,Formal,Office,Blazer + Trousers,Male
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0684,31,160,92,98,101,47,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0125,12,129,74,56,66,33,Sporty,Function,Frock,Kid-Female
+U0208,30,175,80,85,85,45,Party,School,Blazer + Trousers,Female
+U0621,8,140,64,64,75,33,Sporty,Function,T-shirt + Shorts,Kid-Female
+U0600,21,189,95,89,104,49,Casual,Office,Denim Jacket + Jeans,Male
+U0113,42,110,68,52,59,28,Ethnic,School,Shirt + Trousers,Male
+U0651,29,188,99,100,101,40,Ethnic,School,Track Pants + Hoodie,Male
+U0698,16,121,71,60,67,25,Traditional,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0713,56,172,84,80,102,45,Party,Party,Blazer + Trousers,Female
+U0509,47,174,86,78,85,44,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0280,14,112,57,70,57,25,Sporty,Party,Dungarees,Kid-Female
+U0166,23,184,101,84,97,45,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0557,12,113,74,56,66,30,Party,Office,Dungarees,Kid-Female
+U1062,4,116,70,66,60,27,Ethnic,Function,Graphic Tee + Joggers,Kid-Female
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0075,45,132,69,55,75,27,Traditional,School,T-shirt + Shorts,Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0673,7,110,73,57,63,25,Sporty,School,Shirt + Trousers,Kid-Female
+U0771,15,123,72,52,72,28,Ethnic,Wedding,Frock,Kid-Female
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0691,6,141,65,51,59,27,Traditional,Function,T-shirt + Shorts,Kid-Female
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0011,57,161,88,67,94,43,Ethnic,Office,Salwar Suit,Female
+U0294,45,165,105,81,103,47,Sporty,School,T-shirt + Shorts,Male
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0794,53,179,87,87,102,48,Formal,Party,Blazer + Trousers,Male
+U0500,30,152,91,68,94,43,Sporty,School,Saree,Female
+U0933,43,182,91,90,90,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0734,6,105,61,58,68,31,Party,Wedding,Dungarees,Kid-Female
+U0844,22,137,75,67,65,27,Party,Wedding,Suit,Female
+U0498,16,138,57,53,70,31,Casual,Office,Dungarees,Kid-Female
+U0814,9,126,61,56,69,26,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U1009,30,176,96,100,105,49,Casual,School,Denim Jacket + Jeans,Male
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U0149,4,146,69,70,73,33,Traditional,Function,Sweatshirt + Jeans,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0589,50,106,63,52,63,30,Casual,Office,Denim Jacket + Jeans,Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0860,47,180,103,94,87,40,Casual,Wedding,Suit,Male
+U0601,55,125,61,66,72,33,Party,Function,Blazer + Trousers,Female
+U0273,45,158,86,80,94,43,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0565,8,110,72,59,75,34,Sporty,Office,Sweatshirt + Jeans,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U1076,54,131,66,64,63,28,Casual,Wedding,Suit,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0081,50,153,95,67,108,40,Sporty,Function,Saree,Female
+U0540,8,131,63,69,73,27,Casual,Wedding,Frock,Kid-Female
+U0006,37,180,100,78,102,44,Casual,Function,Denim Jacket + Jeans,Male
+U0054,13,143,58,63,63,33,Ethnic,School,Shirt + Trousers,Kid-Female
+U1013,18,162,93,90,105,48,Party,Office,Blazer + Trousers,Male
+U0018,16,129,62,70,63,28,Party,Wedding,T-shirt + Shorts,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0936,13,128,59,50,59,27,Ethnic,Daily Wear,Dungarees,Kid-Female
+U0830,4,102,58,58,67,33,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0891,46,175,81,77,88,37,Sporty,Party,Blazer + Trousers,Female
+U1005,58,173,86,80,102,46,Traditional,School,Nehru Jacket + Kurta,Male
+U0565,8,110,72,59,75,34,Sporty,Office,Sweatshirt + Jeans,Kid-Female
+U0707,11,124,59,66,57,34,Ethnic,Daily Wear,T-shirt + Shorts,Kid-Female
+U0764,32,162,91,81,91,43,Ethnic,Function,Kurta + Pajama,Female
+U0797,20,190,99,83,94,48,Casual,Office,Denim Jacket + Jeans,Male
+U0968,60,168,97,73,95,45,Casual,School,Denim Jacket + Jeans,Female
+U0503,41,138,61,63,64,26,Sporty,Office,Shirt + Trousers,Male
+U0613,60,150,95,65,105,40,Ethnic,Function,Kurta + Pajama,Female
+U0041,37,163,81,79,91,40,Party,Function,Blazer + Trousers,Female
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0061,55,112,60,65,69,33,Traditional,Office,T-shirt + Shorts,Female
+U0166,23,184,101,84,97,45,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0988,46,150,99,76,86,35,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0812,11,103,68,59,75,31,Party,Party,Sweatshirt + Jeans,Kid-Female
+U0645,25,177,89,82,86,45,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0115,34,182,98,87,85,40,Traditional,Wedding,Suit,Male
+U1036,26,165,91,68,104,42,Traditional,Office,Anarkali Suit,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0760,26,182,93,76,101,48,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0474,21,170,96,68,104,36,Traditional,Function,Kurti + Leggings,Female
+U1084,10,120,56,67,73,33,Formal,Party,Hoodie + Track Pants,Kid-Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0279,46,142,58,52,58,25,Ethnic,Function,Kurta + Pajama,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0673,7,110,73,57,63,25,Sporty,School,Shirt + Trousers,Kid-Female
+U0845,47,175,107,89,85,46,Traditional,Wedding,Suit,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U1071,20,115,75,64,72,32,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0292,19,163,95,96,85,40,Ethnic,Office,Track Pants + Hoodie,Male
+U0977,25,187,88,90,104,47,Casual,School,Denim Jacket + Jeans,Male
+U0307,51,184,98,97,90,44,Casual,Wedding,Suit,Male
+U0222,40,115,74,50,67,34,Formal,Party,Blazer + Trousers,Female
+U0450,43,163,89,85,95,46,Party,Function,Blazer + Trousers,Male
+U0722,29,180,108,93,96,42,Ethnic,Wedding,Suit,Male
+U0814,9,126,61,56,69,26,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0365,39,174,87,77,102,36,Formal,School,Saree,Female
+U0903,14,131,75,50,61,33,Sporty,School,Shirt + Trousers,Kid-Female
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0299,8,116,70,69,68,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0342,27,152,80,66,106,44,Party,Office,Blazer + Trousers,Female
+U0583,18,151,87,65,99,38,Traditional,Function,Tunic + Jeans,Female
+U0558,12,136,72,60,55,29,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0178,44,171,97,93,92,50,Formal,Function,Suit,Male
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0035,27,163,90,79,87,45,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0693,47,170,89,90,86,50,Casual,Function,Denim Jacket + Jeans,Male
+U1045,29,156,84,80,105,44,Casual,Office,Denim Jacket + Jeans,Female
+U0879,10,109,58,67,69,34,Traditional,Office,Frock,Kid-Female
+U0738,43,164,94,95,90,40,Sporty,Party,Blazer + Trousers,Male
+U0933,43,182,91,90,90,44,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0269,5,119,58,60,62,26,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0439,23,166,94,76,104,36,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0387,30,163,94,100,89,47,Traditional,Party,Blazer + Trousers,Male
+U0796,36,171,99,91,102,40,Party,Office,Blazer + Trousers,Male
+U0633,55,163,100,77,94,47,Sporty,School,Blazer + Trousers,Male
+U0408,46,165,86,86,96,49,Traditional,Office,Track Pants + Hoodie,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0889,36,170,85,73,89,41,Party,Wedding,Suit,Female
+U0246,3,116,57,68,69,28,Casual,Function,T-shirt + Shorts,Kid-Female
+U0113,42,110,68,52,59,28,Ethnic,School,Shirt + Trousers,Male
+U0842,5,132,71,53,68,29,Traditional,School,Shirt + Trousers,Kid-Female
+U0261,24,182,98,83,94,47,Party,Daily Wear,Denim Jacket + Jeans,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0790,23,177,90,83,93,45,Traditional,Function,Kurta + Pajama,Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0611,29,160,99,84,91,46,Ethnic,Daily Wear,Denim Jacket + Jeans,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0703,31,101,75,69,59,31,Ethnic,Wedding,Suit,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0296,33,132,63,70,74,35,Formal,Daily Wear,Denim Jacket + Jeans,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0467,11,149,59,52,55,29,Ethnic,School,Shirt + Trousers,Kid-Female
+U0570,51,190,87,79,89,48,Traditional,Function,Suit,Male
+U0903,14,131,75,50,61,33,Sporty,School,Shirt + Trousers,Kid-Female
+U0429,27,160,101,77,87,41,Traditional,Wedding,Suit,Male
+U0559,18,178,108,96,104,40,Traditional,Office,Kurta + Pajama,Male
+U0168,53,124,75,68,56,30,Sporty,Wedding,Suit,Female
+U0864,51,144,72,58,72,31,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0486,47,155,87,70,110,35,Ethnic,Function,Kurta + Pajama,Female
+U0174,42,117,56,62,60,29,Ethnic,Function,Kurta + Pajama,Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0246,3,116,57,68,69,28,Casual,Function,T-shirt + Shorts,Kid-Female
+U0299,8,116,70,69,68,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U1000,23,188,88,85,93,47,Formal,School,Suit,Male
+U0772,46,153,97,68,99,36,Formal,School,Top + Skirt,Female
+U0423,10,112,56,60,62,29,Party,Function,T-shirt + Shorts,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0375,58,179,89,98,89,41,Ethnic,Function,Kurta + Pajama,Male
+U0991,34,160,96,84,101,49,Ethnic,Party,Blazer + Trousers,Male
+U0862,25,169,91,83,94,40,Sporty,Function,Lehenga,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0651,29,188,99,100,101,40,Ethnic,School,Track Pants + Hoodie,Male
+U0333,10,144,62,67,66,33,Traditional,School,Shirt + Trousers,Kid-Female
+U0203,30,134,73,53,64,25,Casual,School,Denim Jacket + Jeans,Male
+U0788,17,133,67,50,59,35,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0179,38,180,90,96,91,43,Ethnic,Function,Kurta + Pajama,Male
+U0499,50,139,64,55,59,25,Casual,Daily Wear,Denim Jacket + Jeans,Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0303,29,177,95,98,99,42,Formal,Function,Track Pants + Hoodie,Male
+U0870,21,173,105,84,94,48,Sporty,Wedding,Suit,Male
+U0621,8,140,64,64,75,33,Sporty,Function,T-shirt + Shorts,Kid-Female
+U0282,27,177,93,78,89,50,Sporty,Wedding,Suit,Male
+U0796,36,171,99,91,102,40,Party,Office,Blazer + Trousers,Male
+U0922,50,173,91,80,89,36,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0775,31,167,94,99,93,40,Casual,Wedding,Suit,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0268,37,155,86,77,96,41,Sporty,Party,Blazer + Trousers,Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0915,28,127,56,63,64,29,Sporty,Party,Blazer + Trousers,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0082,37,171,89,95,92,40,Sporty,Party,Blazer + Trousers,Male
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0971,59,120,63,60,65,26,Formal,Wedding,Suit,Male
+U0355,47,141,60,67,70,35,Ethnic,Function,Kurta + Pajama,Female
+U0558,12,136,72,60,55,29,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0903,14,131,75,50,61,33,Sporty,School,Shirt + Trousers,Kid-Female
+U0425,43,165,99,86,87,46,Ethnic,School,Blazer + Trousers,Male
+U0384,26,161,90,77,87,40,Casual,Wedding,Suit,Female
+U0561,34,103,64,50,68,25,Casual,Party,Denim Jacket + Jeans,Female
+U0954,16,127,72,69,60,28,Sporty,Wedding,T-shirt + Shorts,Kid-Female
+U0767,34,161,90,83,99,40,Sporty,Wedding,Suit,Female
+U0215,58,145,74,54,57,28,Party,Office,Blazer + Trousers,Female
+U0392,43,109,56,70,72,27,Traditional,Function,Sweatshirt + Jeans,Female
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0465,53,109,61,54,57,29,Casual,Office,Denim Jacket + Jeans,Male
+U0071,4,116,62,55,75,31,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0210,50,190,92,94,101,48,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U1068,8,141,67,55,71,25,Casual,Office,Graphic Tee + Joggers,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0138,3,133,63,62,64,30,Ethnic,Office,T-shirt + Shorts,Kid-Female
+U0002,51,156,81,83,108,44,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0759,42,167,92,93,95,46,Sporty,School,T-shirt + Shorts,Male
+U0850,11,146,56,58,67,27,Party,Function,Dungarees,Kid-Female
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0986,56,188,97,76,86,40,Party,Office,Blazer + Trousers,Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0478,19,174,98,79,89,40,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U1084,10,120,56,67,73,33,Formal,Party,Hoodie + Track Pants,Kid-Female
+U0993,46,175,89,99,104,43,Ethnic,School,Kurta + Pajama,Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0633,55,163,100,77,94,47,Sporty,School,Blazer + Trousers,Male
+U0850,11,146,56,58,67,27,Party,Function,Dungarees,Kid-Female
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0605,54,150,92,69,107,43,Traditional,Office,Lehenga,Female
+U0054,13,143,58,63,63,33,Ethnic,School,Shirt + Trousers,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0278,27,133,65,55,67,32,Formal,School,Shirt + Trousers,Male
+U0830,4,102,58,58,67,33,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0255,6,149,57,60,73,33,Ethnic,Party,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0270,42,173,105,91,96,43,Formal,Office,Blazer + Trousers,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U1025,21,181,94,84,88,41,Sporty,Wedding,Suit,Male
+U0454,21,188,91,90,98,49,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U0895,3,108,55,63,70,31,Casual,Daily Wear,Dungarees,Kid-Female
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U0534,27,161,100,98,91,46,Casual,Party,Denim Jacket + Jeans,Male
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0484,11,137,63,67,62,34,Casual,Function,Frock,Kid-Female
+U1039,45,166,100,74,106,37,Formal,Party,Blazer + Trousers,Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0697,45,181,94,82,105,46,Casual,Wedding,Suit,Male
+U0402,30,176,106,76,93,43,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0163,30,174,96,76,95,44,Traditional,Daily Wear,Denim Jacket + Jeans,Female
+U0817,15,125,63,54,74,35,Sporty,School,Shirt + Trousers,Kid-Female
+U1064,42,118,72,52,70,25,Traditional,Office,Graphic Tee + Joggers,Female
+U0560,9,119,72,66,56,30,Ethnic,Wedding,Frock,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0113,42,110,68,52,59,28,Ethnic,School,Shirt + Trousers,Male
+U0015,12,150,71,61,72,28,Casual,Office,Sweatshirt + Jeans,Kid-Female
+U0401,43,172,100,71,98,43,Party,Office,Blazer + Trousers,Female
+U0750,18,169,93,71,108,44,Casual,School,Denim Jacket + Jeans,Female
+U0295,12,136,69,65,70,28,Casual,Daily Wear,Frock,Kid-Female
+U0761,33,150,97,85,103,37,Traditional,Wedding,Suit,Female
+U1021,54,185,102,85,98,43,Casual,Function,Denim Jacket + Jeans,Male
+U0557,12,113,74,56,66,30,Party,Office,Dungarees,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0673,7,110,73,57,63,25,Sporty,School,Shirt + Trousers,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0012,43,176,100,93,98,48,Traditional,Wedding,Suit,Male
+U0408,46,165,86,86,96,49,Traditional,Office,Track Pants + Hoodie,Male
+U0260,11,132,58,53,75,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0947,50,138,73,53,61,30,Formal,Office,Blazer + Trousers,Female
+U0961,15,135,62,61,66,34,Ethnic,School,Shirt + Trousers,Kid-Female
+U0918,22,180,92,84,95,45,Traditional,Wedding,Suit,Male
+U0388,35,107,64,58,68,33,Ethnic,Wedding,Suit,Female
+U0116,18,172,101,75,100,43,Ethnic,Party,Blazer + Trousers,Male
+U1023,30,161,90,90,105,47,Party,Office,Blazer + Trousers,Male
+U0627,57,161,88,99,100,49,Traditional,Daily Wear,Denim Jacket + Jeans,Male
+U0729,54,173,89,74,86,45,Party,School,Blazer + Trousers,Female
+U0805,21,113,66,58,70,29,Ethnic,Office,Frock,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0749,22,129,65,54,66,26,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0842,5,132,71,53,68,29,Traditional,School,Shirt + Trousers,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0944,58,190,108,84,92,44,Casual,Function,Denim Jacket + Jeans,Male
+U0807,8,122,68,66,73,35,Traditional,Daily Wear,Frock,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0104,44,153,95,76,107,41,Sporty,School,Salwar Suit,Female
+U0166,23,184,101,84,97,45,Sporty,Daily Wear,Denim Jacket + Jeans,Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0930,46,159,87,79,105,38,Formal,Function,Lehenga,Female
+U0731,18,160,87,75,96,43,Party,Wedding,Suit,Female
+U0375,58,179,89,98,89,41,Ethnic,Function,Kurta + Pajama,Male
+U0673,7,110,73,57,63,25,Sporty,School,Shirt + Trousers,Kid-Female
+U0700,59,181,108,97,96,44,Party,School,Blazer + Trousers,Male
+U0830,4,102,58,58,67,33,Sporty,Office,T-shirt + Shorts,Kid-Female
+U0125,12,129,74,56,66,33,Sporty,Function,Frock,Kid-Female
+U0734,6,105,61,58,68,31,Party,Wedding,Dungarees,Kid-Female
+U0646,47,156,91,70,95,41,Casual,Function,Denim Jacket + Jeans,Female
+U1083,8,134,71,59,75,28,Sporty,Daily Wear,Hoodie + Track Pants,Kid-Female
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0868,31,114,65,60,63,28,Party,Daily Wear,Denim Jacket + Jeans,Female
+U0288,5,144,61,68,60,30,Sporty,Wedding,Sweatshirt + Jeans,Kid-Female
+U0758,14,103,65,50,66,30,Traditional,Office,Sweatshirt + Jeans,Kid-Female
+U0303,29,177,95,98,99,42,Formal,Function,Track Pants + Hoodie,Male
+U0389,38,160,92,70,102,40,Casual,School,Denim Jacket + Jeans,Female
+U0300,33,154,98,65,85,37,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0008,8,131,71,67,74,30,Party,School,Shirt + Trousers,Kid-Male
+U0666,11,129,55,63,68,30,Casual,Party,Sweatshirt + Jeans,Kid-Female
+U0144,14,114,66,66,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0698,16,121,71,60,67,25,Traditional,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0662,7,103,61,55,72,26,Sporty,School,Shirt + Trousers,Kid-Female
+U0445,6,125,71,67,55,34,Casual,Function,Shirt + Trousers,Kid-Male
+U0354,28,179,102,99,89,40,Sporty,Party,Blazer + Trousers,Male
+U0003,43,168,106,82,104,43,Casual,Office,Denim Jacket + Jeans,Male
+U0060,23,153,84,82,95,38,Traditional,School,Top + Skirt,Female
+U0557,12,113,74,56,66,30,Party,Office,Dungarees,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0594,7,138,62,67,68,29,Party,Function,Shirt + Trousers,Kid-Male
+U0455,58,180,85,78,90,45,Sporty,Function,Blazer + Trousers,Male
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0369,27,172,89,82,89,45,Ethnic,Function,Kurta + Pajama,Male
+U0468,46,175,91,74,109,44,Traditional,Wedding,Suit,Female
+U0383,45,165,88,98,85,42,Traditional,School,Shirt + Jeans,Male
+U1086,15,133,69,52,72,31,Ethnic,Party,Hoodie + Track Pants,Kid-Female
+U0005,16,117,64,65,63,29,Casual,Office,Shirt + Trousers,Kid-Male
+U0683,33,161,97,79,91,47,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0287,48,150,59,50,75,33,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0530,9,119,60,51,73,35,Formal,Daily Wear,Sweatshirt + Jeans,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0727,4,114,70,50,62,33,Sporty,Wedding,Shirt + Trousers,Kid-Male
+U0958,43,181,99,91,96,45,Traditional,Party,Blazer + Trousers,Male
+U1061,18,102,57,63,72,28,Sporty,Office,Graphic Tee + Joggers,Female
+U0361,21,153,91,83,87,42,Casual,Office,Denim Jacket + Jeans,Female
+U0252,23,175,94,92,99,45,Casual,Daily Wear,Denim Jacket + Jeans,Male
+U0740,5,142,64,54,70,27,Casual,Function,Frock,Kid-Female
+U1010,58,180,89,79,93,42,Formal,Daily Wear,Denim Jacket + Jeans,Male
+U0299,8,116,70,69,68,32,Party,Function,Sweatshirt + Jeans,Kid-Female
+U0901,52,111,66,53,64,26,Formal,Wedding,Suit,Female
+U1068,8,141,67,55,71,25,Casual,Office,Graphic Tee + Joggers,Kid-Female
+U0575,38,189,96,88,98,43,Sporty,Office,T-shirt + Shorts,Male
+U0043,30,165,86,72,105,37,Sporty,Daily Wear,Denim Jacket + Jeans,Female
+U0874,34,110,57,63,67,30,Sporty,Party,Blazer + Trousers,Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0807,8,122,68,66,73,35,Traditional,Daily Wear,Frock,Kid-Female
+U0017,3,149,63,63,60,33,Casual,School,Shirt + Trousers,Kid-Male
+U0184,3,121,69,56,56,25,Formal,Party,Shirt + Trousers,Kid-Male
+U1086,15,133,69,52,72,31,Ethnic,Party,Hoodie + Track Pants,Kid-Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0230,35,153,91,74,97,43,Casual,Party,Denim Jacket + Jeans,Female
+U0120,60,180,85,97,88,46,Ethnic,Function,Kurta + Pajama,Male
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0637,51,106,67,60,64,27,Traditional,Party,Blazer + Trousers,Female
+U0111,6,136,70,65,64,33,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0884,49,133,61,62,73,32,Party,Wedding,Suit,Female
+U0783,30,167,97,77,102,41,Party,Party,Blazer + Trousers,Male
+U0519,17,133,58,64,74,28,Casual,Wedding,Shirt + Trousers,Kid-Male
+U0207,13,142,55,62,65,34,Party,Office,Sweatshirt + Jeans,Kid-Female
+U0565,8,110,72,59,75,34,Sporty,Office,Sweatshirt + Jeans,Kid-Female
+U0350,14,139,71,59,63,25,Ethnic,Wedding,Shirt + Trousers,Kid-Male
+U0522,3,109,61,58,75,28,Formal,Wedding,Frock,Kid-Female

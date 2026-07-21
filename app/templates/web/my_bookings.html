@@ -1,0 +1,113 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Tailor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="/static/web/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/static/web/assets/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="/static/web/assets/css/style.css">
+</head>
+<body>
+
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
+  <div class="container">
+    <a class="navbar-brand" href="/index/"><strong>Fashion Recommendation</strong></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item"><a class="nav-link" href="/index/">Home</a></li>
+        <li class="nav-item"><a class="nav-link" href="#bookings">Bookings</a></li>
+        <li class="nav-item"><a class="nav-link text-danger" href="/">Logout</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Bookings Section -->
+<div class="container py-5" id="bookings">
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h3 class="mb-0">Bookings</h3>
+    <button id="btnReload" class="btn btn-outline-primary btn-sm">Reload</button>
+  </div>
+
+  <div id="bookingsAlert" class="alert d-none" role="alert"></div>
+
+  <div class="table-responsive">
+    <table class="table table-bordered table-hover mb-0">
+      <thead class="thead-light">
+        <tr>
+          <th>Design Name</th>
+          <th>Booking Date</th>
+          <th>Booking Time</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody id="bookingsBody">
+        <tr><td colspan="4" class="text-center text-muted">Loading…</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script src="/static/web/assets/js/vendor/jquery-1.12.4.min.js"></script>
+<script src="/static/web/assets/js/popper.min.js"></script>
+<script src="/static/web/assets/js/bootstrap.min.js"></script>
+
+<script>
+  function setAlert(type, msg) {
+    var $a = $('#bookingsAlert');
+    $a.removeClass('d-none alert-success alert-warning alert-danger').addClass('alert-' + type).text(msg);
+  }
+  function clearAlert() { $('#bookingsAlert').addClass('d-none').text(''); }
+  function renderBookings(rows) {
+    var $tb = $('#bookingsBody'); $tb.empty();
+    if (!Array.isArray(rows) || rows.length === 0) {
+      $tb.append('<tr><td colspan="4" class="text-center text-muted">No bookings found.</td></tr>');
+      return;
+    }
+    rows.forEach(function(b) {
+      var statusBadge = '<span class="badge badge-secondary">'+b.status+'</span>';
+      if (b.status === 'Pending') statusBadge = '<span class="badge badge-warning">Pending</span>';
+      else if (b.status === 'Completed') statusBadge = '<span class="badge badge-success">Completed</span>';
+      $tb.append(
+        '<tr>'+
+          '<td>'+ (b.de_name||'') +'</td>'+
+          '<td>'+ (b.booking_date||'') +'</td>'+
+          '<td>'+ (b.booking_time||'') +'</td>'+
+          '<td>'+ statusBadge +'</td>'+
+        '</tr>'
+      );
+    });
+  }
+  function loadBookings() {
+    clearAlert();
+    $('#bookingsBody').html('<tr><td colspan="4" class="text-center text-muted">Loading…</td></tr>');
+    $.ajax({
+      url: '/get_bookings/',
+      type: 'GET',
+      dataType: 'json',
+      success: function(res) {
+        var data = Array.isArray(res) ? res : (res.results || []);
+        renderBookings(data);
+      },
+      error: function() {
+        setAlert('danger', 'Failed to load bookings.');
+        $('#bookingsBody').html('<tr><td colspan="4" class="text-center text-muted">—</td></tr>');
+      }
+    });
+  }
+  $(function () {
+    loadBookings();
+    $('#btnReload').on('click', loadBookings);
+  });
+</script>
+</body>
+</html>

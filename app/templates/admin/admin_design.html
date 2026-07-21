@@ -1,0 +1,390 @@
+{% load static %}
+{% csrf_token %}
+{% static "" as baseURL %}
+<!DOCTYPE html>
+<html class="loading" lang="en" data-textdirection="ltr">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta name="description" content="Chameleon Admin is a modern Bootstrap 4 webapp &amp; admin dashboard html template with a large number of components, elegant design, clean and organized code.">
+    <meta name="keywords" content="admin template, Chameleon admin template, dashboard template, gradient admin template, responsive admin template, webapp, eCommerce dashboard, analytic dashboard">
+    <meta name="author" content="ThemeSelect">
+    <title>Fashion Recommendation System using ML</title>
+    <link rel="apple-touch-icon" href="{% static 'admin/theme-assets/images/ico/apple-icon-120.png' %}">
+    <link rel="shortcut icon" type="image/x-icon" href="{% static 'admin/theme-assets/images/ico/favicon.ico' %}">
+    <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700" rel="stylesheet">
+    <link href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome.min.css" rel="stylesheet">
+    <!-- BEGIN VENDOR CSS-->
+    <link rel="stylesheet" type="text/css" href="{% static 'admin/theme-assets/css/vendors.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'admin/theme-assets/css/app-lite.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'admin/theme-assets/css/core/menu/menu-types/vertical-menu.css' %}">
+    <link rel="stylesheet" type="text/css" href="{% static 'admin/theme-assets/css/core/colors/palette-gradient.css' %}">
+    <link href="{% static 'admin/plugins/css/dataTables.bootstrap4.min.css' %}" rel="stylesheet" crossorigin="anonymous"/>
+    <script src="{% static 'admin/plugins/js/font-awesome-all.min.js' %}" crossorigin="anonymous"></script>
+
+    <style type="text/css">
+        .dataTables_filter, .dataTables_length {
+            display: none;
+        }
+    </style>
+  </head>
+  <body class="vertical-layout vertical-menu 2-columns   menu-expanded fixed-navbar" data-open="click" data-menu="vertical-menu" data-color="bg-gradient-x-purple-blue" data-col="2-columns">
+
+    <!-- fixed-top-->
+     <nav class="header-navbar navbar-expand-md navbar navbar-with-menu navbar-without-dd-arrow fixed-top navbar-semi-light">
+      <div class="navbar-wrapper">
+        <div class="navbar-container content">
+          <div class="collapse navbar-collapse show" id="navbar-mobile">
+            <ul class="nav navbar-nav mr-auto float-left">
+              <li class="nav-item d-block d-md-none"><a class="nav-link nav-menu-main menu-toggle hidden-xs" href="#"><i class="ft-menu"></i></a></li>
+              
+              
+            </ul>
+            <ul class="nav navbar-nav float-right">
+              
+              <li class="dropdown dropdown-user nav-item"><a class="dropdown-toggle nav-link dropdown-user-link" href="#" data-toggle="dropdown"><span class="avatar avatar-online" style="position: relative; left: 22px;"><img src="{% static 'admin/theme-assets/images/portrait/small/avatar-s-19.jpg' %}" alt="avatar"><i></i></span><a href="/admin_logout/" class="btn btn-danger"> LOGOUT</a></a>
+                <div class="dropdown-menu dropdown-menu-right">
+                  <div class="arrow_box_right"><a class="dropdown-item" href="#"><span class="avatar avatar-online"><img src="{% static 'admin/theme-assets/images/portrait/small/avatar-s-19.png' %}" alt="avatar"><span class="user-name text-bold-700 ml-1">Admin</span></span></a>
+                    <div class="dropdown-divider"></div><a class="dropdown-item" href="#"><i class="ft-user"></i> Edit Profile</a>
+                    <div class="dropdown-divider"></div><a class="dropdown-item" href="#"><i class="ft-power"></i> Logout</a>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+ <div class="main-menu menu-fixed menu-light menu-accordion menu-shadow " data-scroll-to-active="true" data-img="{% static 'admin/theme-assets/images/backgrounds/02.jpg' %}">
+      <div class="navbar-header">
+        <ul class="nav navbar-nav flex-row">       
+          <li class="nav-item mr-auto"><a class="navbar-brand" href="#">
+              <h3 class="brand-text" style="font-size: 12px; text-align: center;">Fashion Recommendation System using ML</h3></a></li>
+          <li class="nav-item d-md-none"><a class="nav-link close-navbar"><i class="ft-x"></i></a></li>
+        </ul>
+      </div>
+      <div class="main-menu-content">
+        <ul class="navigation navigation-main" id="main-menu-navigation" data-menu="menu-navigation">
+            <li class="nav-item"><a href="/admin_master/"><i class="ft-pie-chart"></i><span class="menu-title" data-i18n="">Admin Master</span></a></li>
+
+            <li class="nav-item"><a href="/admin_design/"><i class="ft-pie-chart"></i><span class="menu-title" data-i18n="">Designs</span></a></li>
+
+            <li class="nav-item"><a href="/admin_history/"><i class="ft-pie-chart"></i><span class="menu-title" data-i18n="">History</span></a></li>
+  
+            <li class="nav-item"><a href="/admin_users/"><i class="ft-pie-chart"></i><span class="menu-title" data-i18n="">Users</span></a></li>
+  
+            <li class="nav-item"><a href="/admin_profile/"><i class="ft-pie-chart"></i><span class="menu-title" data-i18n="">Profile</span></a></li>
+        
+        </ul>
+      </div>
+      <div class="navigation-background"></div>
+    </div>
+    <div class="app-content content">
+      <div class="content-wrapper">
+        <div class="content-wrapper-before"></div>
+
+        <div class="content-body">
+
+        <div class="row">
+
+            <div class="col-12">
+              <button type="button" class="btn btn-success" data-toggle="modal"data-target="#add_modal">
+                 Add New
+                </button><br><br>
+                <div class="card">
+                    <div class="row">
+                            <div class="col-12">
+                                <form>
+                                    <div class="row">
+
+                                        <div class="col-md-12">
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <div class="card mb-4">
+                                                        <div class="card-body">
+                                                            <div class="table-responsive">
+                                                                <table class="table table-bordered" id="tableData" width="100%"
+                                                                    cellspacing="0">
+                                                                    <thead>
+                                                                        <tr style="background-color: #1e3c72; color: white;">
+                                                                          <th>Sl No</th>
+                                                                          <th style="display: none;">ID</th>
+                                                                          <th>Type</th>
+                                                                          <th>Image</th>
+                                                                          <th>Action</th>
+                                                                            
+                                                                        </tr>
+                                                                    </thead>
+                                                                </table>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+
+        <!-- SNACKBAR/TOAST -->
+
+    <div id="snackbar-success">success</div>
+    <div id="snackbar-error">error</div>
+    
+    <div class="se-pre-con"></div>
+    <!-- Loader -->
+
+     <div class="modal fade" id="add_modal">
+            <div class="modal-dialog" style="width: 50%;">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">ADD</h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            &times;
+                        </button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <form action="#">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Type <span class="text-danger">*</span></label>
+                                        <select class="form-control" id="selDesignType"></select>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Image <span
+                                                class="text-danger">*</span></label>
+                                        <input type="file" class="form-control" id="filePhoto">
+                                    </div>
+                                </div>
+                                
+                                <div class="col-12 text-center mt-3">
+                                    <button type="button" class="btn btn-success" id="btn_add">
+                                        <span class="spinner-border spinner-border-sm"></span> Save
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ADD WORK -->
+
+        <!-- EDIT WORK  -->
+
+        <!-- The Modal -->
+        <div class="modal fade" id="edit_modal">
+            <div class="modal-dialog" style="width: 100% !important; max-width: 1000px;">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Design Details</h4>
+                        <button type="button" class="close" data-dismiss="modal">
+                            &times;
+                        </button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <form action="#">
+                            <input type="hidden" id="edit_id">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Name <span class="text-danger">*</span></label>
+                                        <input type="text" class="form-control" id="txtName1">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label>Image <span
+                                                class="text-danger">*</span></label>
+                                        <input type="file" class="form-control" id="filePhoto1">
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Description <span class="text-danger">*</span></label>
+                                        <textarea class="form-control" id="txtDescription1" rows="3"></textarea>
+                                    </div>
+                                </div>
+
+                                <div class="col-12 text-center mt-1">
+                                    <button type="button" class="btn btn-success" id="btn_update">
+                                        <span class="spinner-border spinner-border-sm"></span> Create
+                                    </button>
+                                </div>
+
+                                <div class="card-body">
+                                    <div class="table-responsive">
+                                        <table class="table table-bordered" id="tableData1" width="100%"
+                                            cellspacing="0">
+                                            <thead>
+                                                <tr style="background-color: #1e3c72; color: white;">
+                                                    <th>Sl No</th>
+                                                    <th style="display: none;">ID</th>
+                                                    <th>Name</th>
+                                                    <th>Image</th>
+                                                    <th>Description</th>
+                                                    <th>Action</th>
+                                                    
+                                                </tr>
+                                            </thead>
+                                        </table>
+                                    </div>
+                                </div>
+                                
+                                
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- EDIT WORK -->
+
+
+        <!-- Delete Field -->
+
+        <!-- The Modal -->
+        <div class="modal fade" id="delete_modal">
+            <div class="modal-dialog" style="width: 50%;">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            &times;
+                        </button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <p class="text-center">
+                            Are you sure you want to delete?
+                        </p>
+                        <input type="hidden" id="delete_id">
+                        <div class="row">
+                            <div class="col-6 text-right">
+                                <button type="button" class="btn btn-success" id="btn_delete">Yes</button>
+                            </div>
+                            <div class="col-6 text-left">
+                                <button type="button" class="btn btn-danger" data-dismiss="modal">
+                                    No
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="delete_modal1">
+            <div class="modal-dialog" style="width: 50%;">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            &times;
+                        </button>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <p class="text-center">
+                            Are you sure you want to delete?
+                        </p>
+                        <input type="hidden" id="delete_id1">
+                        <div class="row">
+                            <div class="col-6 text-right">
+                                <button type="button" class="btn btn-success" id="btn_delete1">Yes</button>
+                            </div>
+                            <div class="col-6 text-left">
+                                <button type="button" class="btn btn-danger" data-dismiss="modal">
+                                    No
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <footer class="footer footer-static footer-light navbar-border navbar-shadow">
+      <div class="clearfix blue-grey lighten-2 text-sm-center mb-0 px-2"><span class="float-md-left d-block d-md-inline-block">2025  &copy; Fashion Recommendation System using ML<a class="text-bold-800 grey darken-2" href="#" target="_blank"></a></span>
+        
+      </div>
+    </footer>
+
+    <script src="{% static 'admin/theme-assets/vendors/js/vendors.min.js' %}" type="text/javascript"></script>
+    <script src="{% static 'admin/theme-assets/js/core/app-menu-lite.js' %}" type="text/javascript"></script>
+    <script src="{% static 'admin/theme-assets/js/core/app-lite.js' %}" type="text/javascript"></script>
+    <script src="{% static 'admin/plugins/js/jquery-3.4.1.min.js' %}" crossorigin="anonymous"></script>
+    <script src="{% static 'admin/plugins/js/bootstrap.bundle.min.js' %}" crossorigin="anonymous"></script>
+    <script src="{% static 'admin/plugins/js/jquery.dataTables.min.js' %}" crossorigin="anonymous"></script>
+    <script src="{% static 'admin/plugins/js/dataTables.bootstrap4.min.js' %}" crossorigin="anonymous"></script>
+    <script src="{% static 'admin/js/jsDesign.js' %}" crossorigin="anonymous"></script>
+    <script src="{% static 'admin/js/main.js' %}" crossorigin="anonymous"></script>
+
+  </body>
+</html>
+
+<script>
+const RECOMMENDED_OUTFITS = [
+  "Anarkali Suit",
+  "Blazer + Trousers",
+  "Crop Top + Palazzo",
+  "Denim Jacket + Jeans",
+  "Dungarees",
+  "Floral Dress",
+  "Frock",
+  "Gown",
+  "Graphic Tee + Joggers",
+  "Hoodie + Track Pants",
+  "Kurta + Pajama",
+  "Kurti + Leggings",
+  "Lehenga",
+  "Maxi Dress",
+  "Nehru Jacket + Kurta",
+  "Polo T-shirt + Chinos",
+  "Salwar Suit",
+  "Saree",
+  "Sweatshirt + Jeans",
+  "Shirt + Jeans",
+  "Shirt + Trousers",
+  "Shorts + T-shirt",
+  "Skirt + Top",
+  "Suit",
+  "Sweater + Jeans",
+  "Tunic + Leggings",
+  "Tuxedo"
+];
+
+const selectEl = document.getElementById("selDesignType");
+RECOMMENDED_OUTFITS.forEach(outfit => {
+  const opt = document.createElement("option");
+  opt.value = outfit;
+  opt.textContent = outfit;
+  selectEl.appendChild(opt);
+});
+
+</script>
